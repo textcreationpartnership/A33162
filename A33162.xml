@@ -1,0 +1,1114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cicero's Laelius a discourse of friendship : together with A pastoral dialogue concerning friendship and love.</title>
+            <title>Laelius de amicitia. English</title>
+            <author>Cicero, Marcus Tullius.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 127 KB of XML-encoded text transcribed from 61 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33162</idno>
+            <idno type="STC">Wing C4308</idno>
+            <idno type="STC">ESTC R11183</idno>
+            <idno type="EEBO-CITATION">12387102</idno>
+            <idno type="OCLC">ocm 12387102</idno>
+            <idno type="VID">60873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33162)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60873)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 655:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cicero's Laelius a discourse of friendship : together with A pastoral dialogue concerning friendship and love.</title>
+                  <title>Laelius de amicitia. English</title>
+                  <author>Cicero, Marcus Tullius.</author>
+                  <author>J. T.</author>
+               </titleStmt>
+               <extent>[8], 69, [2], 38, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Crooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>A pastoral dialogue concerning friendship and love, occasion'd by the death of the Honourable J.T. (38 p.) has special t.p.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Friendship.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:60873:1"/>
+                  <pb facs="tcp:60873:1" rendition="simple:additions"/>
+                  <p>Cicero's LAELIUS. A DISCOURSE OF FRIENDSHIP.</p>
+                  <p>Together with a Paſtoral Dialogue Concerning FRIENDSHIP and LOVE.</p>
+                  <p>Licenſed, <hi>Rob. Midgley.</hi>
+                  </p>
+                  <p>
+                     <hi>LONDON,</hi> Printed for <hi>William Crooke,</hi> at the <hi>Green-Dragon</hi> without <hi>Temple-Bar,</hi> 1691.</p>
+               </div>
+               <div type="preface">
+                  <pb facs="tcp:60873:2"/>
+                  <pb facs="tcp:60873:2"/>
+                  <head>THE PREFACE.</head>
+                  <p>THE uſual deſign of a <hi>Preface</hi> is either for an <hi>Introduction</hi> to the Book it ſelf, or an <hi>Apology</hi> to the Reader for the Publication of it; the Former of theſe being the more pertinent and uſeful of the two, thô 'tis partly done already by my Author, I ſhall inſiſt moſt upon that.</p>
+                  <p>The following Diſcourſe was written by <hi>Tully</hi> (as Himſelf obſerves) in his later years, which produc'd many excellent Treatiſes: in This particularly we find more of <hi>Majeſty</hi> than <hi>Gaiety</hi> in his Style, we ſee the <hi>Philoſopher</hi> joyn'd to the <hi>Orator,</hi> and (which is ſomewhat rare) the <hi>Friend</hi> to the <hi>States man;</hi> he being qualify'd, beſides his own natural Abilities, by a long experience of <hi>Friendſhip</hi> in his familiarity with <hi>Pomponius Atticus,</hi> to treat of this Subject with great exactueſs. The
+<pb facs="tcp:60873:3"/>Diſcourſe being occaſion'd by <hi>Scipio</hi>'s Death, and his Character making ſo conſiderable a part of it, it will not be improper to ſet down ſome brief Memoirs of his Life, which may ſerve to explain ſeveral Paſſages in this Treatiſe.</p>
+                  <p>He was the Son of <hi>Paullus Aemilius</hi> the greateſt General of his time, from whom he was call'd <hi>Aemili<g ref="char:EOLhyphen"/>anus,</hi>
+                     <note place="margin">Plutarch. <hi>in Vit.</hi> Paulli Aemilij.</note> and upon the Divorce that happen'd between his Parents, was adopted by the Son of <hi>Africanus major,</hi> his Couſin-german, and by him nam'd <hi>Scipio. Plutarch</hi> ſays, that from his Youth he was endu'd above any of his Equals, with all the good Qualities requiſite in a General or a States-man.<note place="margin">Ibid.</note> Firſt, He ſerv'd under his Father in the <hi>Macedonian</hi> War, and had a conſiderable ſhare in the defeat of <hi>Perſeus</hi>'s Army. After<g ref="char:EOLhyphen"/>wards,<note place="margin">
+                        <hi>Oroſ.</hi> Lib. 4. Cap. 23.</note> in the Third <hi>Punic</hi> War (which began <hi>606</hi> Years after the Building of <hi>Rome,</hi> and laſted <hi>4</hi> Years) he overthrew <hi>Carthage,</hi> and from his Succeſſes in <hi>Africk,</hi> got the Title of <hi>Africanus Minor.</hi> About <hi>15</hi> Years after that,<note place="margin">Oroſ. Lib. <hi>5.</hi>
+                     </note> he reduc'd <hi>Numantia,</hi> after it had held out for <hi>14</hi> Years againſt the <hi>Romans.</hi> Whilſt he lay with his Army before this Place,<note place="margin">
+                        <hi>Plutarch.</hi> in Vit. <hi>Tib. Gracch.</hi> &amp; <hi>Oroſ.</hi> Lib. 5. Cap. 8.</note> the Sedition of the <hi>Gracchi</hi> broke out at <hi>Rome,</hi>
+                     <pb facs="tcp:60873:3"/>and <hi>Tiberius Gracchus,</hi> the Elder of the two Brothers, having endeavour'd the eſta<g ref="char:EOLhyphen"/>bliſhment of ſome new Laws in favour of the <hi>Commons,</hi> which were againſt the intereſt of the <hi>Nobility,</hi> was ſlain in the <hi>Capitol,</hi> in his Second <hi>Tribuneſhip.</hi> 
+                     <g ref="char:V">Ʋ</g>pon <hi>Scipio</hi>'s return to <hi>Rome,</hi> he being ask'd by <hi>Caius Gracchus</hi> and <hi>Ful<g ref="char:EOLhyphen"/>vius,</hi>
+                     <note place="margin">
+                        <hi>Plutarch.</hi> in Vit. C. <hi>Gracch.</hi>
+                     </note> what he thought of <hi>Ti<g ref="char:EOLhyphen"/>berius</hi>'s Death, reply'd, That he always diſ<g ref="char:EOLhyphen"/>lik'd <hi>Tiberius</hi>'s way of Proceeding: This Anſwer, thô 'twas deliver'd with a great deal of ſincerity, loſt him the affections of the Populace, and mightily iucens'd <hi>Caius.</hi> Soon after this,<note place="margin">Idem ibid. &amp; in Vit. <hi>Romuh.</hi>
+                     </note> 
+                     <hi>Sci<g ref="char:EOLhyphen"/>pio</hi> was found dead in his Bed, and no outward Cauſe of his Death appear'd. Some ſaid he dy'd eaſily and ſuddainly, having been naturally ſickly; others, that he poiſon'd himſelf; others, that his Enemies, who were ſuppos'd to be <hi>Caius Gracchus</hi> and <hi>Fulvius,</hi> broke in upon him in the night and ſtifled him: Certain it is, that they Two were ſuſpected to be the Authors of his Death; and tho' his Body lay open to be ſeen of all, and gave ſome ſuſpicion of a violent Death, yet there was no publick Enquiry made into it; and 'twas thought the Rabble oppos'd all Proceedings of Juſtice, for fear that <hi>Caius</hi>
+                     <pb facs="tcp:60873:4"/>ſhould be found acceſſary to the Murder. His Death happen'd in <hi>Caius</hi>'s ſecond <hi>Tri<g ref="char:EOLhyphen"/>buneſhip,</hi> who purſuing the ſame meaſures with his Brother, ſuffer'd the ſame fate, and being forſaken by all his Adherents, was ſlain by his own Servant.<note place="margin">Plutarch. <hi>in Vit.</hi> Paull. Aemil.</note> 
+                     <hi>Scipio</hi> in his life-time was eſteem'd the Valianteſt of the <hi>Romans,</hi> and had the greatest Authority among them: He was a ſtrict abſerver of Military Diſcipline,<note place="margin">
+                        <hi>Flor.</hi> Lib. 2. Cap. 18.</note> and made a great Reformation in the Army: His vacant hours were employ'd in the Study of <hi>Philoſophy</hi> and <hi>Politicks,</hi> in which he had <hi>Panaetius</hi> and <hi>Polybius</hi> for his Maſters. Thus was his Life divided between the Arts of <hi>War</hi> and <hi>Peace,</hi> in both which his Friend <hi>Laelius</hi> ſhar'd with him, who was no leſs famous for Wiſdom than <hi>Scipio</hi> for Valor:<note place="margin">
+                        <hi>In Vit.</hi> Ti. Gracch.</note> 
+                     <hi>Plutarch</hi> gives us a remarkable Inſtance of his prudent management in the Diviſions that happen'd in <hi>Rome</hi> about the <hi>Agratian</hi> Law, which gain'd him the Name of <hi>Laelius</hi> the <hi>Wiſe.</hi>
+                  </p>
+                  <p>Thus much by way of <hi>Introduction.</hi> As for the <hi>Apology,</hi> tho' I think the <hi>Tranſla<g ref="char:EOLhyphen"/>tion</hi> wants it very much, (for really I don't know how to juſtify the Preſumption of an attempt to expreſs <hi>Tully</hi>'s Conceptions in any
+<pb facs="tcp:60873:4"/>other Language or Words than his own) yet I'm ſure the <hi>Poem</hi> that follows, ſtands in moſt need of it, and being more my Own, muſt conſequently be more obnoxious to Cenſure. However, I have ventur'd to place it at the End, as treating of the ſame <hi>Subject,</hi> tho' upon a different <hi>Occaſion.</hi> I hope the <hi>Fair Sex</hi> will not think their Prerogative invaded, becauſe in that Poem I prefer <hi>Friendſhip</hi> to <hi>Love;</hi> ſince the <hi>Love</hi> I condemn there, is a Paſ<g ref="char:EOLhyphen"/>ſion, which, I dare ſay, the <hi>Beſt</hi> and <hi>Modeſteſt</hi> part of them will not think themſelves con<g ref="char:EOLhyphen"/>cern'd to defend. As for <hi>Conjugal Love,</hi> I look upon it as a <g ref="char:V">Ʋ</g>nion of <hi>Souls</hi> as well as <hi>Bodies,</hi> and a State ſo exactly conformable to all the Laws of <hi>Friendſhip,</hi> that, methinks, the Names of <hi>Friend</hi> and <hi>Wife</hi> ſhould ſignifie the ſame.</p>
+                  <p>They who will think it ſomething unſeaſon<g ref="char:EOLhyphen"/>able for Me to be giving Rules of <hi>Friendſhip</hi> when all the World is in Arms, may as well blame <hi>Laelius</hi> for making this Diſcourſe when <hi>Rome</hi> was diſtracted by the Ambition of <hi>Gracchus,</hi> and <hi>Tully</hi> for publiſhing it at a time when all <hi>Italy</hi> was divided by the Factions of <hi>Pompey</hi> and <hi>Caeſar;</hi> Certainly <hi>Remedies</hi> are never more Neceſſary, than when <hi>Diſeaſes</hi> are moſt Epidemical.</p>
+                  <pb facs="tcp:60873:5"/>
+                  <p>I hope the Reader is not curious to know, whether theſe Papers are publiſh'd at the Importunity of Friends, by the Command of Superiors, or for the Prevention of falſe Copies: Theſe are the common Topics which every Prefacer makes uſe of, to juſtify his intruſion into the Preſs. I ſhall therefore wave all Evaſions, and boldly but my ſelf upon my Reader's mercy; for I don't under<g ref="char:EOLhyphen"/>ſtand why an Author may not have the liberty of keeping his Reaſons to himſelf, as well as his Name.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:60873:5"/>
+                  <head>CICERO'S LAELIUS: A DISCOURSE OF FRIENDSHIP.</head>
+                  <div type="prefatory_letter">
+                     <head>The Author's Prefatory Epiſtle To <hi>T. Pomponius Atticus.</hi>
+                     </head>
+                     <p>
+                        <hi>Q<g ref="char:V">Ʋ</g>intus Mucius Scaevola,</hi> the Augur, would often talk of <hi>Caius Laelius</hi> his Father-in-Law with a great deal of pleaſure, and in all his Diſcourſes gave him the Title of <hi>Wiſe.</hi> As ſoon as I came to Age, my Father diſpos'd of me ſo entirely to this <hi>Scaevola,</hi> that (unleſs ſome extraor<g ref="char:EOLhyphen"/>dinary
+<pb n="2" facs="tcp:60873:6"/>occaſion call'd me away) I was never from him. During this time I furniſh'd my Memory with many excellent Sayings and uſeful Inſtructions of his, and made it my buſineſs to improve by ſo wiſe a Con<g ref="char:EOLhyphen"/>verſation. Upon his Death, I apply'd my ſelf to <hi>Scaevola</hi> the Prieſt, whom I dare affirm for Learning and Juſtice to be the moſt excellent Perſon in <hi>Rome.</hi> But having ſpoken of Him in another place, I ſhall now return to <hi>Scaevola</hi> the Augur.</p>
+                     <p>Among other Diſcourſes of his, I remem<g ref="char:EOLhyphen"/>ber, when I and two or three of his moſt familiar Friends were ſitting with him, he fell upon a Subject which was then in every Man's Mouth. For I ſuppoſe, <hi>Atti<g ref="char:EOLhyphen"/>cus,</hi> You who were ſo well acquainted with <hi>P. Sulpicius,</hi> can't forget how the mortal hatred he bore <hi>Q. Pompeius,</hi> (who was Con<g ref="char:EOLhyphen"/>ſul when he was Tribune, and with whom he had formerly been very intimate) did amaze as well as trouble all the Town. <hi>Scaevola</hi> took occaſion from this, to enter<g ref="char:EOLhyphen"/>tain us with a Diſcourſe of <hi>Loelius</hi>'s to Him and his other Son in Law <hi>C. Fannius</hi> (<hi>Mar<g ref="char:EOLhyphen"/>cus</hi>'s Son) upon <hi>Friendſhip,</hi> which paſs'd within a few days after the Death of <hi>Africanus.</hi> The Heads of this Diſcourſe I remember very well, and have digeſted
+<pb n="3" facs="tcp:60873:6"/>them into this Treatiſe after my own Me<g ref="char:EOLhyphen"/>thod. For I have brought in the Perſons ſpeaking to one another, that I might avoid the troubleſom repetition of <hi>[ſaid I]</hi> and <hi>[ſaid He,]</hi> and that they might ſeem to talk as if they were preſent.</p>
+                     <p>Now having been often deſir'd by You to write ſomething of <hi>Friendſhip,</hi> and look<g ref="char:EOLhyphen"/>ing upon it as a Subject that might be as worthy of every one's Knowledge, as of our Familiarity, I was the more inclin'd to contribute what I cou'd to the publick Good and your private Satisfaction. But as in that Dialogue of mine concerning <hi>Old Age,</hi> which was dedicated to You, I brought in the elder <hi>Cato</hi> diſcourſing, becauſe I thought to Perſon fitter to ſpeak upon that Theme than one who had ſeen the World ſo long, and had flouriſh'd ſo eminently in his later years: So having underſtood from Tradition, that the Friendſhip between <hi>C. Laelius</hi> and <hi>P. Scipio</hi> was very famous, I judg'd it proper to make <hi>Laelius</hi> once more ſpeak thoſe things concerning <hi>Friend<g ref="char:EOLhyphen"/>ſhip,</hi> which <hi>Scaevola</hi> remember'd to have been formerly ſaid by Him. This way of Diſcourſe ſeems to carry the more weight in it, when 'tis grounded upon the Autho<g ref="char:EOLhyphen"/>rity of Men ſo Ancient and Illuſtrious;
+<pb n="4" facs="tcp:60873:7"/>inſomuch as in the reading over that former Treatiſe, I am ſometimes ſo ſtrangely affe<g ref="char:EOLhyphen"/>cted with it, tho' 'twas written by my ſelf, that methinks <hi>Cato</hi> ſpeaks, not I. But as in that Book, being my ſelf an <hi>Old Man,</hi> I wrote to an <hi>Old Man</hi> concerning <hi>Age;</hi> ſo in this, being a <hi>Friend,</hi> I write to a <hi>Friend</hi> concerning <hi>Friendſhip;</hi> there <hi>Cato</hi> ſpoke, than whom no Man of his time was Older or Wiſer: Here <hi>Laelius,</hi> who always had the repute of the Wiſeſt Man and the Faith<g ref="char:EOLhyphen"/>ſulleſt Friend, talks of <hi>Friendſhip.</hi> There<g ref="char:EOLhyphen"/>fore I muſt deſire you to divert your thoughts from <hi>Me,</hi> that write it, to <hi>Laelius,</hi> that ſpeaks it.</p>
+                     <p>
+                        <hi>Caius Fannius</hi> and <hi>Quintus Mucius</hi> are ſuppos'd to come to their Father-in-Law, upon the Death of <hi>Africanus:</hi> They begin the Diſcourſe with <hi>Laelius,</hi> who talks all the way of <hi>Friendſhip,</hi> and in whoſe Cha<g ref="char:EOLhyphen"/>racter of a <hi>Friend</hi> you will ſee your own.</p>
+                  </div>
+                  <div type="dialogue">
+                     <sp>
+                        <speaker>FANNIUS.</speaker>
+                        <p>What you ſay, <hi>Laelius,</hi> is true: for there never was a Man of greater Prudence or Renown than <hi>Africanus,</hi> but you muſt conſi<g ref="char:EOLhyphen"/>der that the Eyes of all are now upon You;
+<pb n="5" facs="tcp:60873:7"/>You only are call'd and counted Wiſe. This was lately the Attribute of <hi>Cato,</hi> and formerly of <hi>L. Atilius:</hi> But both of them had it in a different reſpect, <hi>Atilius</hi> for his knowledge in the <hi>Civil Law, Cato</hi> for his long Experience in the World, his Wiſdom and Courage in the Senate, and his Wit and Eloquence at the Bar: So that when He came to be Old, the Epithet of <hi>Wiſe</hi> was in a manner become his Proper Name. But You are eſteem'd for another kind of Wiſ<g ref="char:EOLhyphen"/>dom, which is no leſs owing to your Indu<g ref="char:EOLhyphen"/>ſtry and Knowledge, than to your Nature and Manners: And that not as Wiſdom goes among the Vulgar, but as the better ſort deſcribe a Wiſe Man, ſuch as <hi>Greece</hi> never had; For the more exact Critics will not allow thoſe <hi>Seven,</hi> who were called the <hi>Sages,</hi> to be perfectly Wiſe: we read of <hi>One</hi> only at <hi>Athens,</hi> and Him pronounced ſo by <hi>Apollo.</hi> Now the Wiſdom which is held to be in You, is ſuch as enables you to eſteem all that can be call'd your own, as pro<g ref="char:EOLhyphen"/>ceeding from your Self, and to look upon all humance Accidents as things beneath the thoughts of a Vertuous Man. Therefore ſeveral have enquir'd of Me, and I believe of <hi>Scaevola,</hi> how You bear the Death of <hi>Africanus:</hi> and ſo much the rather, becauſe
+<pb n="6" facs="tcp:60873:8"/>when we met laſt <hi>Nones</hi> (according to our cuſtom) in <hi>D. Brutus</hi>'s Garden, to diſcourſe, You only were abſent, who always us'd to obſerve that day and that Duty very punctually.</p>
+                     </sp>
+                     <sp>
+                        <speaker>SCAEVOLA.</speaker>
+                        <p>'Tis true, <hi>Laelius;</hi> ſeveral (as <hi>Fannius</hi> ſays) enquire: But I anſwer them from my own obſervation, that You bear the loſs of ſo great a Man and ſo good a Friend, with all the moderation that can be expected; that indeed a Man of your good Nature cou'd not but be ſomewhat moved, but that your abſence from Us was occa<g ref="char:EOLhyphen"/>ſion'd by your Illneſs rather than by any exceſs of Grief.</p>
+                     </sp>
+                     <sp>
+                        <speaker>LAELIUS.</speaker>
+                        <p>You ſay well, <hi>Scaevola:</hi> No ſmall Im<g ref="char:EOLhyphen"/>pediment ſhould have kept me from an Office which I always attended when I was in health: For I don't think, that any Accident can excuſe a Man of Reſolution from the performance of his Duty. But you, <hi>Fannius,</hi> that attribute more to Me than I either deſire or deſerve, ſhew more
+<pb n="7" facs="tcp:60873:8"/>of your Friendſhip to <hi>Me,</hi> than of your Juſtice to <hi>Cato;</hi> for either no Man ever was <hi>Wiſe</hi> (which I am more inclinable to think,) or if ever Man was, He was. For (to omit other Inſtances) how bravely did he bear the Death of his Son? <hi>Paulus</hi> I remember, and <hi>Caius</hi> I have ſeen: but their Loſs was not ſo great as <hi>Cato</hi>'s, and conſequently their Trial leſs; Their Sons died in their Childhood: <hi>Cato</hi>'s was a Man not only of great Hopes, but of approved Ver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ues. Wherefore have a care of prefer<g ref="char:EOLhyphen"/>ring even <hi>Him,</hi> whom you ſay, <hi>Apollo</hi> judged <hi>the Wiſeſt of Men,</hi> before <hi>Cato;</hi> for if the Sayings of the <hi>Firſt</hi> deſerve our Praiſe, the Actions of the <hi>Laſt</hi> will challenge our Ad<g ref="char:EOLhyphen"/>miration. But now to deal freely with you Both, as to your Sentiments of Me.</p>
+                        <p>Whether I ſhou'd do well or no in denying my ſelf to be concern'd for <hi>Sci<g ref="char:EOLhyphen"/>pio</hi>'s Death, let the Learned determine: I'm ſure I ſhould not ſpeak the Truth; for I muſt needs ſay, I am moved at the loſs of ſuch a <hi>Friend</hi> as I think there never will be, and I am certain there never was. But I want no Remedies: I am my own Comforter, and chiefly in this, that I am freed from an Error with which moſt Men are poſſeſs'd upon the Death of their
+<pb n="8" facs="tcp:60873:9"/>Friends; for I think not that any Harm has hapned to <hi>Scipio,</hi> all that has hapned, is to Me: Now to take one's own Misfortunes to heart, ſhews more like <hi>Self-love</hi> than <hi>Friendſhip.</hi> But who can deny that all is well with <hi>Scipio?</hi> For unleſs He expected an Immortality on Earth, (which I dare ſay He never did) what is there in the Am<g ref="char:EOLhyphen"/>bition of Man that He did not obtain? who in his growing years not only an<g ref="char:EOLhyphen"/>ſwer'd, but out-did the mighty Hopes which all <hi>Rome</hi> had of his Childhood: who never ſought the Conſulſhip, yet was twice made Conſul; once before the uſual time, and again for his own ſake at the uſual time, tho' for the Nations ſake not ſoon enough: who by conquering two Cities that were the greateſt Enemies to this Em<g ref="char:EOLhyphen"/>pire, did not only put a ſtop to thoſe Wars for the preſent, but prevented them for the future. What ſhall I ſay of his ſweet diſ<g ref="char:EOLhyphen"/>poſition, his Dutifulneſs to his Mother, his Kindneſs to his Siſters, his Goodneſs to his Friends, his Juſtice to all the World? Theſe you Both know; and how dear he was to <hi>Rome,</hi> their Sorrow at his Funeral ſuffici<g ref="char:EOLhyphen"/>ently declares. Now what good could the addition of a few Years have done Him, ſince Age, tho' it is not grievous (as, I
+<pb n="9" facs="tcp:60873:9"/>remember, <hi>Cato</hi> told Me and <hi>Scipio</hi> the year before he died,) yet it takes off from that Vigor and Activity of Mind which was yet alive in <hi>Scipio,</hi> whoſe Life, as well as his For<g ref="char:EOLhyphen"/>tune and his Glory, was already ſuch as not to be capable of any improvement. The ſenſe of his Death was leſſen'd by the ſuddenneſs of it; what kind of Death it was is hard for me to determine: what others ſuſpect, you hear. But this I may truly ſay for <hi>Scipio,</hi> that of all the glorious and happy days of his Life (and they were not a few) none was more remarkable than That on which, after the diſmiſſion of the Senate, He was attended to his Houſe in the Evening by all the Senators, the <hi>Latins,</hi> and other Allies of <hi>Rome,</hi> which was the day before He died. So that from ſo high a pitch of Glory, He ſeem'd fitter to aſcend to Heaven, than to deſcend ſo low as the Grave.</p>
+                        <p>I am not of their Opinion, who have undertaken of late to maintain, That the <hi>Soul</hi> is mortal as well as the <hi>Body,</hi> and that both are extinguiſh'd in Death; but am rather govern'd by the Authority of the Ancients, whether it was derived from our Fore-fathers, who perform'd ſuch ſolemn Obſequies to the Dead, (which certainly
+<pb n="10" facs="tcp:60873:10"/>they would never have done, had they thought they had no ſenſe of them:) or from Thoſe who were formerly of this Na<g ref="char:EOLhyphen"/>tion, and inſtructed the bigger <hi>Grecia</hi> (which then flouriſh'd, and is now deſtroy'd) with their Precepts: or, whether we receiv'd it from Him whom <hi>Apollo</hi> declared <hi>the Wiſeſt of Men,</hi> who never contradicted his own Aſſertions (as ſeveral have done,) but always taught, That <hi>the Souls of Men were Immor<g ref="char:EOLhyphen"/>tal, that upon their departure from our Bodies they were receiv'd into Heaven, and that the beſt and juſteſt Perſons had the eaſieſt and quickeſt paſſage thither.</hi> This was <hi>Sci<g ref="char:EOLhyphen"/>pio</hi>'s Opinion, who, as if he had foreſeen his Death within a few days before it hapned, when <hi>Philus</hi> and <hi>Manilius</hi> and my Self, together with You, <hi>Scaevola,</hi> and ſome Others were with him, ſpent three days in a Diſcourſe about the <hi>Commonwealth,</hi> and concluded with the Immortality of the Soul: all which he told us he had heard from <hi>Africanus</hi> in a Dream.</p>
+                        <p>Now if it be true, that every good Man's Soul is ſo eaſily looſen'd from the Priſon and Fetters of his Body, who, think you, could have a freer paſſage to Heaven than <hi>Scipio?</hi> So that to Weep for his Fate I'm afraid would look more like <hi>Envy</hi> than
+<pb n="11" facs="tcp:60873:10"/>
+                           <hi>Love.</hi> Nay, tho' I ſhould ſuppoſe that all Senſe is loſt with Life, and that Body and Soul die together; yet as there is no <hi>good</hi> in Death, ſo certainly there can be no <hi>harm:</hi> For when <hi>Scipio</hi> loſes all Senſe, he is in the ſame condition as if he had never been born; for whoſe Birth not only I, but all <hi>Rome</hi> will rejoice as long as it is a City. Thus Heaven ſeems <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> have dealt more kindly by Him tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> by Me, who, as I came firſt into th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> World, ought to have gone firſt out of it: But the very remem<g ref="char:EOLhyphen"/>brance of our Friendſhip is ſo delightful to me, that I eſteem my ſelf happy in having liv'd with <hi>Scipio,</hi> whoſe Care and mine (in the management of <hi>publick</hi> and <hi>private</hi> Affairs) was always the ſame; our Life in <hi>Peace</hi> and <hi>War</hi> ſtill the ſame: and (which is the very Soul of <hi>Friendſhip</hi>) our Tem<g ref="char:EOLhyphen"/>pers, Inclinations and Opinions ever the ſame. Wherefore I am not ſo much pleas'd with the Name that <hi>Fannius</hi> and the World give me of <hi>Wiſe,</hi> (which is falſe,) as with the hopes I entertain, that the memory of our <hi>Friendſhip</hi> will be Eternal; and I am ſo much the rather induc'd to flatter my ſelf with this Opinion, becauſe in all paſt Ages there are not mention'd above three or four pair of <hi>Friends,</hi> among whom
+<pb n="12" facs="tcp:60873:11"/>I have ſome reaſon to hope, that the <hi>Friendſhip</hi> of <hi>Scipio</hi> and <hi>Laelius</hi> will be known to Poſterity.</p>
+                     </sp>
+                     <sp>
+                        <speaker>FANNIUS.</speaker>
+                        <p>That muſt needs be, <hi>Laelius:</hi> But ſince you were pleas'd to make mention of <hi>Friendſhip,</hi> and we are at leiſure, you will mightily oblige Me, and (I hope) <hi>Scaevola,</hi> if as you us'd formerly to diſcourſe upon other Subjects that were propos'd; ſo you will now let us know what are your Senti<g ref="char:EOLhyphen"/>ments of <hi>Friendſhip,</hi> how you would define it, and what Rules you would lay down for the eſtabliſhment of it.</p>
+                     </sp>
+                     <sp>
+                        <speaker>SCAEVOLA.</speaker>
+                        <p>'Twill be very acceptable to Me; and, I aſſure you, I was only prevented by <hi>Fan<g ref="char:EOLhyphen"/>nius</hi> from making the ſame Requeſt: There<g ref="char:EOLhyphen"/>fore, Sir, what you pleaſe to ſay upon this Theme will oblige us Both.</p>
+                     </sp>
+                     <pb n="13" facs="tcp:60873:11"/>
+                     <sp>
+                        <speaker>LAELIUS.</speaker>
+                        <p>I ſhould not be againſt it, could I think my ſelf ſufficient: For the Subject is noble, and we are at leiſure (as <hi>Fannius</hi> ſays;) but who am I? Or, what is there in Me? 'Tis for the greateſt Philoſophers in <hi>Greece</hi> to ſpeak Extempore upon every Argument; the Undertaking is great, and requires no ſmall Preparation; therefore, if you would hear a formal Diſcourſe upon this Subject, you muſt expect it from thoſe whoſe Pra<g ref="char:EOLhyphen"/>ctice and Profeſſion lay that way. As for me, I can only adviſe you, to prefer <hi>Friendſhip</hi> before all things in the World, ſince nothing is ſo agreeable to the Nature of Man, nothing ſo neceſſary in Proſperity or Adverſity.</p>
+                        <p>My firſt Opinion is, that <hi>there can be no real</hi> Friendſhip, <hi>but between Good Men:</hi> Not to be ſo very nice as ſome, whoſe Notion of <hi>Goodneſs</hi> (tho' perhaps it is not altoge<g ref="char:EOLhyphen"/>ther falſe) is very uſeleſs to, and deſtructive of Society; for they deny, that any Man can be <hi>Good,</hi> unleſs he be <hi>Wiſe.</hi> Be it ſo: But their <hi>Wiſdom,</hi> as they define it, is ſuch as never Man yet attain'd. Now the <hi>Wiſ<g ref="char:EOLhyphen"/>dom</hi> I would look for in a Good man, is
+<pb n="14" facs="tcp:60873:12"/>ſuch as is uſeful and practicable, not an imaginary Vertue that is only to be wiſh'd for. According to their Rules, I ſhall never allow <hi>C. Fabricius, M. Curius,</hi> and <hi>T. Corun<g ref="char:EOLhyphen"/>canius</hi> to be <hi>Wiſe,</hi> tho' all our Fore fathers eſteem'd them ſo. Therefore let them keep to themſelves their obſcure and invidious definition of <hi>Wiſdom,</hi> and grant that Theſe were Wiſe Men; but they won't do that: They'll deny this to any one that is not their Wiſe Man. Then let us ſpeak a plain Truth in plain Engliſh: <hi>They whoſe Life and Converſation is ſuch, that their</hi> Honeſty, Integrity, Juſtice <hi>and</hi> Goodneſs <hi>are generally approv'd: They that are neither</hi> Covetous, Luſtful, <hi>nor</hi> Bold, <hi>and have but that Prin<g ref="char:EOLhyphen"/>ciple of</hi> Honor <hi>that was in the</hi> Perſons <hi>I juſt now mention'd, they</hi> (I think) <hi>are and ought to be accounted</hi> Good Men: <hi>Who, as far as Man can go, follow the Dictates of</hi> Nature, <hi>the beſt and ſureſt Guide.</hi> For (me<g ref="char:EOLhyphen"/>thinks) 'tis Natural to all Mankind to main<g ref="char:EOLhyphen"/>tain a mutual Society, eſpecially where there is a <hi>Relation;</hi> thus we find that our <hi>Country men</hi> are dearer to us than <hi>Foreigners,</hi> and our <hi>Kinſmen</hi> than <hi>Strangers:</hi> For Na<g ref="char:EOLhyphen"/>ture ſeems to have planted in us a kind of regard and tenderneſs for the <hi>former.</hi> But theſe are not always ſufficient tyes upon
+<pb n="15" facs="tcp:60873:12"/>our Affections: For there is this difference between <hi>Affinity</hi> and <hi>Friendſhip,</hi> that the <hi>firſt</hi> may ſubſiſt without <hi>Love,</hi> whereas the <hi>laſt</hi> cannot; take away <hi>Love,</hi> and the very Name of <hi>Friendſhip</hi> is gone, tho' that of <hi>Affinity</hi> ſhall remain. How great the power of <hi>Friendſhip</hi> is, we may gather from hence, that of all the numerous and different Societies which Nature has appointed among Men, This alone is contracted into ſo narrow a compaſs, that <hi>Love</hi> is always limited to Two, or very few Perſons.</p>
+                        <p>Now Friendſhip is <hi>an unanimous conſent of Opinions in all Matters relating to</hi> Religion, <hi>or</hi> Civil Affairs, <hi>with all Love and Kindneſs:</hi> Which (next to <hi>Wiſdom</hi>) I hold to be the greateſt Bleſſing that the immortal Gods ever beſtow'd upon Man. Others may prefer <hi>Riches, Health, Power, Honor</hi> and <hi>Pleaſure,</hi> (which, indeed, is the higheſt Bliſs that Beaſts are capable of attaining;) but theſe are frail and fleeting Enjoyments, whoſe poſſeſſion lays not ſo much in our own power, as in the arbitrary diſpoſal of Fortune. They that place the <hi>Supreme Good</hi> in <hi>Vertue</hi> are moſt in the right; but in the mean time, 'tis this very <hi>Vertue</hi> that creates and maintains <hi>Friendſhip,</hi> for there can be no ſuch thing as a <hi>Friend</hi> without it.
+<pb n="16" facs="tcp:60873:13"/>Let us now meaſure <hi>Vertue</hi> by the common Rules of Life and Converſation; not like ſome of our modern <hi>Virtuoſi,</hi> by lofty Expreſſions; let us call them <hi>Good Men,</hi> who have always been reputed ſo; ſuch as <hi>Paulus, Cato, Gallus, Scipio</hi> and <hi>Philus,</hi> who are the beſt Patterns to live by; and not ſeek after Others, who are never to be found. Among theſe Men there were more and ſtronger engagements of Affection, than I am able to number or expreſs.</p>
+                        <p>Firſt then, <hi>How can Life live</hi> (as <hi>Ennius</hi> has it) without an acquieſcence in the mu<g ref="char:EOLhyphen"/>tual Love of ſome <hi>Friend?</hi> What is hap<g ref="char:EOLhyphen"/>pier, than to have a Companion whom one may truſt as one's ſelf? Where were the pleaſures and enjoyments of <hi>Proſperity,</hi> without a <hi>Friend,</hi> who ſhall rejoice for them as if they were his own? How hard is it to undergo the burden of <hi>Adverſity.</hi> without one that ſhall take the greateſt ſhare upon himſelf? All other things that are deſirable to Man, are proper only for one end or occaſion; Riches ſerve for <hi>
+                              <g ref="char:V">Ʋ</g>ſe,</hi> Power for <hi>Reſpect,</hi> Honour for <hi>Praiſe,</hi> Pleaſures for <hi>Delight,</hi> Health for <hi>Eaſe</hi> and <hi>Buſineſs:</hi> but <hi>Friendſhip</hi> is ſuitable to every occaſion, wherever you go it follows you;
+<pb n="17" facs="tcp:60873:13"/>it is neither to be excluded from any <hi>Place,</hi> nor unſeaſonable or troubleſom at any <hi>Time;</hi> ſo that we have not more frequent occaſion (as they ſay) for <hi>Fire, Air,</hi> and <hi>Water,</hi> than we have for <hi>Friendſhip.</hi> I am not now. ſpeaking of the common and ordinary <hi>Friendſhip,</hi> (tho' <hi>that</hi> too is not without it's Pleaſure and Uſe) but of that which is more refin'd and perfect: That, I mean, which was between thoſe few Perſons I have mention'd. Such <hi>Friendſhip</hi> as this is an Ornament to <hi>Proſperity,</hi> and a Support and Comfort in <hi>Adverſity.</hi>
+                        </p>
+                        <p>But amongſt all the Conveniences of <hi>Friendſhip,</hi> (which are many and great) I hold this to be the greateſt, that in the loweſt ebb of Fortune, it ſtill bears up with chearful hopes of a better condition, never ſuffering the Mind to deſpond or be caſt down. He that looks upon his <hi>Friend,</hi> ſees <hi>Himſelf,</hi> as in a Glaſs: ſo that <hi>Abſence</hi> cannot divide them, <hi>Want</hi> impoveriſh them. <hi>Sickneſs</hi> weaken them, nor (which is ſtranger) <hi>Death</hi> kill them; ſuch eſteem and honor for his Memory does a Man leave behind him to his ſurviving <hi>Friend,</hi> that the Life of the One is glorious, and the Death of the Other happy. Take away mutual Love from among Men, and you will find that
+<pb n="18" facs="tcp:60873:14"/>neither Cities nor Families will ſtand, nay, not ſo much as Agriculture will laſt. If this does not ſerve to convince you of the efficacy of <hi>Friendſhip</hi> and <hi>Concord,</hi> you may learn to value it from the fatal con<g ref="char:EOLhyphen"/>ſequences of <hi>Diſſention</hi> and <hi>Diſcord.</hi> What <hi>Family</hi> is ſo ſtrongly Allied, what <hi>City</hi> ſo well Fortifi'd, that it cannot be utterly deſtroy'd by Factions and Animoſities? From hence (by the Rule of Contraries) we may eaſily gather the many benefits that ariſe from <hi>Friendſhip.</hi> A certain Philoſo<g ref="char:EOLhyphen"/>pher<note n="*" place="margin">
+                              <hi>Empedocles.</hi> Vid. Sext. Empiric. adv. Mathem. lib. 8.</note> of <hi>Agrigentum,</hi> is re<g ref="char:EOLhyphen"/>ported to ſay in <hi>Greek</hi> Verſe, That <hi>all things in</hi> Nature <hi>and in the</hi> Univerſe, <hi>whether they be</hi> fix'd <hi>or</hi> moveable, <hi>are kept together by</hi> Friendſhip, <hi>or divided by</hi> Diſcord; the Truth of this Sentence is evident to every Man from his own Experience. What Acclamations were there in the Theatre t'other day, when in my Friend <hi>Pacuvius</hi>'s new Play, the King, not knowing which of the two Strangers was <hi>Oreſtes, Pylades</hi> avouch'd himſelf to be <hi>Oreſtes,</hi> that he might die for his Friend, and <hi>Oreſtes</hi> pro<g ref="char:EOLhyphen"/>teſted himſelf to be (what he really was) the true <hi>Oreſtes?</hi> Now, if the bare Repre<g ref="char:EOLhyphen"/>ſentation of a <hi>Story</hi> was ſo generally ap<g ref="char:EOLhyphen"/>plauded,
+<pb n="19" facs="tcp:60873:14"/>by the Audience, what do you think they would have done, if it had been Matter of <hi>Fact?</hi> Here Nature plainly ſhews her power, when Men own that to be well done in another which they would not do themſelves.</p>
+                        <p>Thus have I, as well as I could, declar'd my Sentiments of <hi>Friendſhip:</hi> If any thing more remains to be ſaid, (as I believe there is much) you muſt expect it from thoſe who handle this Subject more at large.</p>
+                     </sp>
+                     <sp>
+                        <speaker>FANNIUS.</speaker>
+                        <p>But we had rather expect it from You; for tho' I have frequently deſired it from others, and heard them with ſome ſatiſ<g ref="char:EOLhyphen"/>faction, yet we know, You have another way of Delivering your ſelf upon all occa<g ref="char:EOLhyphen"/>ſions.</p>
+                     </sp>
+                     <sp>
+                        <speaker>SCAEVOLA.</speaker>
+                        <p>You would ſay ſo indeed, <hi>Fannius,</hi> had you been preſent at the Debare which was held about the <hi>Republick,</hi> in <hi>Scipio</hi>'s Garden, to hear how bravely he deſended <hi>Juſtice</hi> againſt the ſubtle Objections of <hi>Philus.</hi>
+                        </p>
+                     </sp>
+                     <pb n="20" facs="tcp:60873:15"/>
+                     <sp>
+                        <speaker>FANNIUS.</speaker>
+                        <p>'Twas eaſie for ſo <hi>Juſt</hi> a Perſon to ſpeak for <hi>Juſtice.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>SCAEVOLA.</speaker>
+                        <p>Then, ſure it muſt be as eaſie for him to diſcourſe of <hi>Friendſhip,</hi> whoſe chief glory it is, that he has with all the ſtricteſt Me<g ref="char:EOLhyphen"/>thods of Truth, Conſtancy and Juſtice, obſerv'd its Rules and Precepts.</p>
+                     </sp>
+                     <sp>
+                        <speaker>LAELIUS.</speaker>
+                        <p>Nay, now ye lay a Force upon me; no matter by what Arguments: 'tis enough that I am forc'd; for to deny ſo fair Requeſt to one's Kinſmen, were not only unkind, but unreaſonable.</p>
+                        <p>As often therefore as I think upon <hi>Friendſhip,</hi> this Conſideration offers it ſelf firſt to my thoughts, whether <hi>Weakneſs</hi> or <hi>Neceſſity</hi> ſhould be any inducements to contract a <hi>Friendſhip,</hi> that ſo, whereas ei<g ref="char:EOLhyphen"/>ther Party would be helpleſs of himſelf, the Occaſions of the one might be ſupply'd by
+<pb n="21" facs="tcp:60873:15"/>the other, and all kind Offices perform'd by both, in a mutual reciprocation of Benefits; whether (I ſay) this might properly be call'd <hi>Friendſhip,</hi> or whether there were not ſome other <hi>Motive</hi> of greater worth and beauty, which proceeds from Nature. And cer<g ref="char:EOLhyphen"/>tainly <hi>Love</hi> (from whence the Name of <hi>Friendſhip</hi> is deriv'd in Latin) is the firſt and ſtrongeſt tye of our Affections. Some Men ſhall receive a good Turn from thoſe whom they only flatter with an outward ſhew of <hi>Friendſhip,</hi> and to whom they pay a Reſpect ſuitable to their preſent occaſions: But <hi>Friendſhip</hi> will not admit of any Diſ<g ref="char:EOLhyphen"/>guiſe or Diſſimulation, whatever proceeds from That, muſt be ſincere and voluntary. So that methinks <hi>Friendſhip</hi> ariſes rather from <hi>Nature</hi> than <hi>Want,</hi> and from a ſecret application of the Mind with a tender ſenſe of Love, rather than from any conſideration how to make it ſerviceable to our Intereſt. Experience ſhews us this in moſt <hi>Animals,</hi> who for a time love their <hi>Young</hi> ſo entirely, and are ſo well belov'd by them, that one may eaſily perceive the force of <hi>Nature</hi> in theſe Creatures, which is more eminently apparent in <hi>Man:</hi> Firſt, from the mutual Love between Parents and their Children, which nothing but ſome horrible Crime
+<pb n="22" facs="tcp:60873:16"/>can deſtroy; and next, when there are equal grounds for Love on both ſides; as when we light upon one of the ſame Temper and Diſpoſition with our ſelves, in whom we have diſcover'd ſome eminent Ray of <hi>Goodneſs</hi> and <hi>Vertue.</hi> For nothing is more amiable than Vertue, nothing more attractive of our Affections. We find in our ſelves an inclination for ſome Perſons whom we never ſaw, meerly upon the Report of their <hi>Vertue.</hi> Who has not an honor and eſteem for the Memory of <hi>C. Fabricius</hi> and <hi>M Curius,</hi> tho' he never beheld them? Who does not at the ſame time deteſt <hi>Tar<g ref="char:EOLhyphen"/>quinius Superbus, Sp. Caſſius,</hi> and <hi>Sp. Moelius?</hi> When the two Generals, <hi>Pyrrhus</hi> and <hi>Han<g ref="char:EOLhyphen"/>nibal,</hi> ſtrove for the Maſtery in <hi>Italy,</hi> we had no great averſion to the <hi>former,</hi> becauſe of his Generoſity, the later <hi>Rome</hi> always hated for his Cruelty. Now, ſince the power of <hi>Vertue</hi> is ſo great as to render it lovely in a Stranger, and (which is more) in an Enemy, 'tis no wonder if we are affected with it, when we ſee it every day in an Acquaintance. Tho' I muſt confeſs, <hi>Friend<g ref="char:EOLhyphen"/>ſhip</hi> is mightily confirm'd by receiving ſome demonſtrations of Kindneſs, by an expe<g ref="char:EOLhyphen"/>rience of Love, and by frequent Conver<g ref="char:EOLhyphen"/>ſation: All which being added to that firſt
+<pb n="23" facs="tcp:60873:16"/>Motive of Love, will flame out into a won<g ref="char:EOLhyphen"/>derful Endearment of Friendſhip; now if any one thinks this to proceed from a Weakneſs in our ſelves, and a deſign to obtain private Ends and Intereſts upon others, he makes the Riſe of <hi>Friendſhip</hi> mean and ignoble, by aſcribing it to <hi>Neceſ<g ref="char:EOLhyphen"/>ſity</hi> and <hi>Want,</hi> which at that rate would beſt qualifie a Man for Friendſhip. But 'tis quite otherwiſe: For he that has moſt aſſu<g ref="char:EOLhyphen"/>rance in himſelf, and is endued with ſo much Wiſdom and Vertue that he wants no Body, but has every thing that is needful within himſelf, this Man is worthieſt to gain and preſerve a <hi>Friend.</hi> How did <hi>Africanus</hi> want me? Not at all: Neither did I ſtand in need of Him; but as I lov'd him out of an Honor I had for his Vertue, ſo He regarded me for ſome little Eſteem he had of mine; Time and Conver<g ref="char:EOLhyphen"/>ſation increas'd our Affection: And tho' many and great Conveniences on both ſides did ariſe from thence, yet we never made the hopes of them any Inducements to contract a Friendſhip. For as we are ſometimes willing to aſſiſt and oblige one another, not through any hopes of Requital, (for that were to put a Benefit out to Uſe;) but becauſe we are all naturally inclin'd to
+<pb n="24" facs="tcp:60873:17"/>Humanity: So methinks we ſhould cover <hi>Friendſhip,</hi> not for any expectation of an outward Recompence, but becauſe it is always its own Reward.</p>
+                        <p>Some, who (like Brutes) place all Happi<g ref="char:EOLhyphen"/>neſs in <hi>Pleaſure,</hi> have a quite different No<g ref="char:EOLhyphen"/>tion of <hi>Friendſhip;</hi> but 'tis no wonder if ſuch as miſplace their Affections upon ſo low and worthleſs an Object, can never raiſe them to the contemplation of any thing that is Sublime, Noble, and Divine. Such therefore we ſhall exclude from our diſcourſe, and reſt ſatisfi'd, that Nature creates in us all a propenſity to Love, and that the appearance of Vertue begets a true and ſincere Affection. This laſt Motive makes us place our ſelves as near as we can to Him we love, that we may more freely enjoy the benefit of his <hi>Converſation</hi> and <hi>Manners,</hi> that there may be an equality and correſpondence in love, and a readineſs to oblige without the leaſt expectation of a Re<g ref="char:EOLhyphen"/>turn. From this kind Contention many Be<g ref="char:EOLhyphen"/>nefits will ariſe, and its Foundation will be ſtronger and ſurer than that of <hi>Weakneſs</hi> and <hi>Want:</hi> For if <hi>Interest</hi> were the only tye of <hi>Friendſhip,</hi> when one fails, the other cannot laſt; but becauſe Nature cannot be chang'd, therefore true <hi>Friendſhip,</hi> which
+<pb n="25" facs="tcp:60873:17"/>proceeds from Nature, is immutable and eternal.</p>
+                        <p>Thus have I ſhewn you the <hi>Riſe</hi> of <hi>Friendſhip:</hi> Would you know any thing further?</p>
+                     </sp>
+                     <sp>
+                        <speaker>SCAEVOLA.</speaker>
+                        <p>Good <hi>Loelius,</hi> proceed; for <hi>Fannius,</hi> who is my Junior, I dare Anſwer.</p>
+                     </sp>
+                     <sp>
+                        <speaker>FANNIUS.</speaker>
+                        <p>My Brother has ſpoken my Mind; there<g ref="char:EOLhyphen"/>fore, pray Sir, let us hear you on.</p>
+                     </sp>
+                     <sp>
+                        <speaker>LAELIUS.</speaker>
+                        <p>Hear then, Gentlemen, what <hi>Scipio</hi> and I have often ſaid of <hi>Friendſhip.</hi> He always thought, that <hi>nothing was more difficult than to preſerve an inviolate</hi> Friendſhip <hi>till Death:</hi> For things may ſo happen, that the Intereſts of <hi>Friends</hi> will be diſtinct, or their Opinions in Matters of State diffe<g ref="char:EOLhyphen"/>rent. <hi>We find</hi> (ſaid He) <hi>every day, that the Humors of Men change with their Condition, or their Tears.</hi> An Inſtance of this he brought from <hi>Children,</hi> who commonly
+<pb n="26" facs="tcp:60873:18"/>lay aſide their greateſt Friendſhips with their Play-things; or if they continued them till their Youth, they were generally parted by ſome diſpute for a <hi>Pleaſure</hi> or <hi>Advan<g ref="char:EOLhyphen"/>tage,</hi> that could not be obtain'd by both at the ſame time; but if any were ſo conſtant as to preſerve their <hi>Friendſhip</hi> under theſe Trials, yet at laſt it would be violated when both were Competitors in <hi>Honor:</hi> For there is no greater bane of <hi>Friendſhip</hi> than among moſt Men, <hi>Avarice,</hi> among the Better ſort, <hi>Ambition;</hi> theſe have too often prov'd the cauſes of great Enmities between the greateſt Friends. Beſides, (ſaid <hi>Scipio</hi>) many, and ſometimes juſt Occaſions of <hi>Sepa<g ref="char:EOLhyphen"/>ration</hi> are given by ſome Ill Men, that expect to be gratifi'd by their <hi>Friend</hi> in every unlawful Requeſt; as that he ſhould be an Inſtrument of their <hi>Luſt,</hi> or an Aſſiſtant to their <hi>Injuſtice;</hi> which if he refuſes to do, let his Refuſal be never ſo well grounded, he ſhall be tax'd with a breach of <hi>Friend<g ref="char:EOLhyphen"/>ſhip;</hi> tho' at the ſame time, when theſe Men have the confidence to require a Compliance with all their Demands, they ſeem to profeſs that They would do any thing <hi>right</hi> or <hi>wrong,</hi> to ſerve a <hi>Friend.</hi> But this is an old Com<g ref="char:EOLhyphen"/>plaint, which has not only parted <hi>Friends,</hi> but created Mortal and Implacable <hi>Ene<g ref="char:EOLhyphen"/>mies.</hi>
+                           <pb n="27" facs="tcp:60873:18"/>Theſe are the Inconveniences which <hi>Scipio</hi> thought ſo incident to common <hi>Friendſhips,</hi> that he who could conquer or avoid them, was to be eſteem'd not only a <hi>Wiſe,</hi> but a <hi>Happy Man.</hi>
+                        </p>
+                     </sp>
+                     <p>And now, if you pleaſe, let us conſider how far <hi>Love</hi> ought to proceed in <hi>Friend<g ref="char:EOLhyphen"/>ſhip.</hi> If <hi>Coriolanus</hi> had Friends, ought they to have born Arms with him againſt their <hi>Country?</hi> Should the Friends of <hi>Viſcelli<g ref="char:EOLhyphen"/>nus,</hi> or <hi>Sp. Moelius</hi> have aſſiſted their Am<g ref="char:EOLhyphen"/>bition in aſpiring to the Empire? We ſaw but t'other day that <hi>Tib. Gracchus,</hi> when he diſturb'd the Government, was forſaken by <hi>Qu. Tubero,</hi> and all his Friends that were of any Quality. But <hi>C. Bloſſius</hi> of <hi>Cuma,</hi> an Acquaintance of your Family (<hi>Scoevola,</hi>) when he came to me to the Senate (<hi>Loenas</hi> and <hi>Rupilius</hi> being then Conſuls) to ſue for his Pardon, urg'd this Argument for his Excuſe, <hi>Becauſe he had ſo high an eſteem for</hi> Tib. Gracchus, <hi>that he thought himſelf oblig'd to do whatever he deſir'd: But what</hi> (ſaid I) <hi>if he ſhould bid you Fire the</hi> Capitol? <hi>He would never have propos'd that</hi> (anſwer'd he:) <hi>Well, but what if he had? Truly</hi> (ſaid he) <hi>I ſhould have done it.</hi> You hear how Wic<g ref="char:EOLhyphen"/>kedly he ſpoke; and really he did as he ſaid, or rather more: For he was no longer.
+<pb n="28" facs="tcp:60873:19"/>the <hi>Inſtrument,</hi> but the <hi>Author</hi> of <hi>Gracchus</hi>'s Rage, and was his Leader rather than his Companion in all his deſperate Attempts; at laſt, the Hot brain'd <hi>Rebel</hi> being terrifi'd by a heavy Accuſation for freſh Crimes, fled into <hi>Aſia</hi> and revolted to the Enemy, and in the end was overtaken by a ſe<g ref="char:EOLhyphen"/>vere, but juſt Puniſhment for all his Trea<g ref="char:EOLhyphen"/>ſons.</p>
+                     <p>Therefore it won't excuſe you from the Offence to ſay you offended for a <hi>Friend</hi>'s ſake; for <hi>Vertue</hi> being the very cement of <hi>Friendſhip,</hi> there is no preſerving the <hi>one,</hi> if you forſake the <hi>other.</hi> Now, if we judge it very fit for us to comply with all the Deſires of a <hi>Friend,</hi> and for him to do the ſame by us, we have Reaſon on our ſide, as long as the Matter of his Requeſt is not unlawful. I ſpeak here of ſuch <hi>Friends</hi> as we have before our Eyes, ſuch as we meet with in Hiſtory or Converſa<g ref="char:EOLhyphen"/>tion, Thoſe we are to make our Precedents, and thoſe chiefly who come neareſt to the true <hi>Wiſdom.</hi> We have heard of the inti<g ref="char:EOLhyphen"/>mate Friendſhip between <hi>Papus Aemilius</hi> and <hi>C. Luſcinus,</hi> who (as Tradition tells us) were twice Conſuls together, and twice Cenſors; and we find that <hi>M. Curius</hi> and <hi>T. Coruncanius</hi> were familiar with them, and
+<pb n="29" facs="tcp:60873:19"/>between themſelves. Now we can't ſup<g ref="char:EOLhyphen"/>poſe that any one of theſe would ever preſs the other to the performance of ought that touch'd their <hi>Honor,</hi> their <hi>Oath,</hi> or their <hi>Loyalty.</hi> No; they were Men of ſo much Vertue, that if ſuch Demands were ever made, I dare ſay, they were never granted. Yet we ſee <hi>Tib. Gracchus</hi> was aſſiſted by <hi>C. Carbo, C. Cato</hi> and his Brother <hi>Caius,</hi> who proves a greater Stickler for that Faction, ſince his Brother's Death, than he was before.</p>
+                     <p>Therefore we may take this for a general Rule in <hi>Friendſhip, Neither to make nor grant any diſhonourable Requeſt:</hi> For in all other Offences, but eſpecially in thoſe that are againſt our <hi>Country,</hi> 'tis a poor Evaſion to cry, <hi>They were committed upon a</hi> Friend's <hi>account.</hi> Now we are fallen into ſuch Times, (<hi>Fannius</hi> and <hi>Scoevola</hi>) that it concerns us to look as far as we can into the Future ſtate of the Republick, eſpecially ſince we have degenerated from the Cuſtoms and Manners of our Anceſtors. <hi>Tib. Gracchus</hi> ſtrove to obtain, or rather did actually uſurp the Supreme Power for a few Months. Did ever any <hi>Roman</hi> ſee or hear the like? Yet even after his Death, his Friends and Adhe<g ref="char:EOLhyphen"/>rents maintain'd what he had done; nor can
+<pb n="30" facs="tcp:60873:20"/>I mention their uſage of <hi>P. Naſica Scipio</hi> without Tears. <hi>Carbo</hi> (whom I nam'd juſt now) we bore with, by reaſon we had puniſh'd <hi>Tib. Gracchus</hi> ſo lately. What will be the Event of <hi>C. Gracchus</hi>'s Tribuneſhip, I ſhall not pretend to gueſs; that Affair grows daily upon us, and if it once gets a Head, will be very pernicious to the <hi>Re<g ref="char:EOLhyphen"/>publick.</hi> You may ſee by every <hi>Poll</hi> for Magiſtrates, what miſchievous Conſequences have attended the <hi>Gabinian</hi> Law, and that which <hi>Caſſius</hi> brought in, two years after. And now, methinks, I ſee the Senate and People of <hi>Rome</hi> divided, and all things manag'd by a Head-ſtrong Multitude, whilſt ſome ſtand looking on, and are more curious to enquire what occaſion'd theſe Calamities, than how they ſhould be reme<g ref="char:EOLhyphen"/>died. But what's the Reaſon of all this? Truly, becauſe no Body would dare to attempt ſuch a thing without a <hi>Party.</hi> Therefore every Honeſt Man muſt be cau<g ref="char:EOLhyphen"/>tion'd, that <hi>tho' his</hi> Friendſhip <hi>ſhould betray him unawares into ſuch Alliances, yet he muſt ot hold himſelf oblig'd to ſtand by his</hi> Friend, <hi>in any Deſign that tends to the ſubverſion or prejudice of the</hi> Commonwealth: For all Offenders of this kind, ſome Puniſhment muſt be provided, and no leſs for the <hi>Ad<g ref="char:EOLhyphen"/>herents</hi>
+                        <pb n="31" facs="tcp:60873:20"/>than for the <hi>Leaders</hi> of a Fa<g ref="char:EOLhyphen"/>ction.</p>
+                     <p>Who in all <hi>Greece</hi> was more Renown'd or more Powerful than <hi>Themiſtocles,</hi> who deliver'd that Nation from Slavery in the <hi>Perſian</hi> War, where he was General? Yet after all, this Man, when he was Baniſh'd thro' the Jealouſie of his <hi>Fellow-Citizen,</hi> knew not how to bear that Affront from his Un<g ref="char:EOLhyphen"/>grateful Country, (tho' 'twas his Duty to have born it;) but took the ſame courſe as <hi>Coriolanus</hi> had done here Twenty years before him, and Revolted: Neither of theſe could find a <hi>Friend</hi> that would aſſiſt them againſt his Country, and therefore Both kill'd themſelves. Now, I ſay, ſuch wicked Aſſociations as theſe, muſt not only be deny'd the umbrage of <hi>Friendſhip</hi> for their Excuſe, but ſhould be made liable to ſome heavy Cenſure, that no Man may think it lawful upon any account to take up Arms with his <hi>Friend</hi> againſt his Country, which, for ought I can ſee, as things go now, may too frequently happen. For my part, I am no leſs concern'd to think what the Condi<g ref="char:EOLhyphen"/>tion of the <hi>Republick</hi> will be after my Death, than what is now in my Life time.</p>
+                     <pb n="32" facs="tcp:60873:21"/>
+                     <p>Therefore this muſt be laid down as the firſt Maxim in <hi>Friendſhip, To requeſt what is juſt of our</hi> Friends, <hi>and to perform what is juſt for them,</hi> ſcarcely reſpiting the per<g ref="char:EOLhyphen"/>formance ſo long as to be ask'd. Let us always be ready to oblige them, and exclude all delays from <hi>Friendſhip:</hi> Let us be wil<g ref="char:EOLhyphen"/>ling and glad to give good Counſel, and let the Authority of a <hi>Friend,</hi> if his Advice be honeſt, go a great way with us; this Authority muſt extend it ſelf not only to open Admonitions, but, where occaſion requires, to ſevere Reproofs, and then it muſt be ſtrictly obey'd.</p>
+                     <p>Yet ſome, who (I hear) are eſteem'd <hi>Wiſe</hi> in <hi>Greece,</hi> pleaſe themſelves with ſtrange and ſingular Opinions; but nothing can eſcape the nicety of their Diſtinctions. They (forſooth) will tell us, that we muſt not be over-ſtock'd with <hi>Friends,</hi> for that's the way to involve one Man in the Cares of a Multitude, who at the ſame time has enow, and it may be too many of his own: That 'tis troubleſom to have too great an Intereſt in other Mens Concerns, and more conve<g ref="char:EOLhyphen"/>nient to have the Knot of <hi>Friendſhip</hi> as ſlight and as looſe as we can, that upon occaſion, we may ſtreighten or ſlacken it, as we ſee fit: That <hi>Quiet</hi> is the readieſt Means
+<pb n="33" facs="tcp:60873:21"/>to obtain Happineſs, which the mind can never enjoy, if it muſt be in continual labour for the Fortunes of ſo many ſever<g ref="char:EOLhyphen"/>al Men. Others, they ſay, are of a more ſelfiſh Opinion, (which I have hinted at already,) that <hi>Friendſhip</hi> was to be deſir'd for Convenience and Intereſt, not for Love and Affection: And therefore the more helpleſs a Man is, the more reaſon he has to ſeek a <hi>Friend;</hi> from hence (ſay they) it comes to paſs that, <hi>Women</hi> rather than <hi>Men,</hi> the <hi>Poor</hi> rather than the <hi>Rich,</hi> the <hi>Diſtreſſed</hi> rather than the <hi>Happy</hi> fly to <hi>Friendſhip</hi> as a Sanctuary. Brave Wiſdom indeed! They may as well rob the World of the Sun, as Human Life of <hi>Friendſhip,</hi> the beſt and happieſt Gift of Heaven. But what is that <hi>Quiet</hi> they talk of, which in appearance may be pleaſant, but is really to be avoided in moſt caſes? Would any Man in his Wits excuſe himſelf from un<g ref="char:EOLhyphen"/>dertaking an honorable Action or Employ<g ref="char:EOLhyphen"/>ment, or lay it down when he has under<g ref="char:EOLhyphen"/>taken it, merely becauſe there is ſome trou<g ref="char:EOLhyphen"/>ble in the performance of it? He that would avoid all <hi>Care,</hi> muſt by the ſame Rule avoid <hi>Vertue,</hi> which cannot without ſome difficulty reject and hate it's contrary, as Good does <hi>Evil,</hi> Temperance <hi>Luſt,</hi> or
+<pb n="34" facs="tcp:60873:22"/>Courage <hi>Cowardice.</hi> Thus, you ſee, <hi>Vertu<g ref="char:EOLhyphen"/>ous</hi> Men have the ſtrongeſt averſion for thoſe that are <hi>Vitious,</hi> the <hi>Valiant</hi> for thoſe that are <hi>Fearful,</hi> and the <hi>Sober</hi> for thoſe that are <hi>Lewd.</hi> 'Tis therefore eſſential to a well govern'd Mind to delight in all that is Good, and to be offended at all that is otherwiſe. Now ſince Trouble will ſometimes befal the wiſeſt Man, (which it muſt neceſſarily do, unleſs we can ſuppoſe him deveſted of all Humanity,) I ſee no rea<g ref="char:EOLhyphen"/>ſon why we ſhould baniſh <hi>Friendſhip</hi> from our Life, becauſe it may give us a little trouble. Take but away the <hi>Affections</hi> of the Soul, and tell me what difference there is, (I will not ſay between a <hi>Beaſt</hi> and a <hi>Man,</hi> but) between a <hi>Man</hi> and a <hi>Stone,</hi> a <hi>Stock</hi> or any ſenſſeſs thing. We muſt not heark<g ref="char:EOLhyphen"/>en to thoſe, that will make Vertue ſo hard and cruel a Miſtreſs, which in all things is eaſy and gentle, eſpecially in <hi>Friendſhip,</hi> where ſhe allows us a well to ſhare the Comforts of our <hi>Friend</hi>'s Proſperity, as the Sorrows of his Adverſity. Therefore <hi>Friend<g ref="char:EOLhyphen"/>ſhip</hi> is not to be laid aſide, becauſe ſome trouble muſt be undergon for a <hi>Friend,</hi> no more than <hi>Vertue</hi> is to be neglected, be<g ref="char:EOLhyphen"/>cauſe it is attended with ſome difficulties.</p>
+                     <pb n="35" facs="tcp:60873:22"/>
+                     <p>Now <hi>Vertue</hi> being (as I told you) the very Cement of Affection, when That ap<g ref="char:EOLhyphen"/>pears ſo eminently in one Man, as to create in another of the like diſpoſition, a deſire of being joyn'd to him; when, I ſay, this happens, an <hi>Amity</hi> muſt neceſſarily fol<g ref="char:EOLhyphen"/>low. And methinks 'tis ſtrange, that Men ſhould take ſo much Pleaſure in the Va<g ref="char:EOLhyphen"/>nities and Superfluities of Life; as Honor, Grandeur, Building, Dreſſing and Beauti<g ref="char:EOLhyphen"/>fying the Body, and yet find no delight in a Mind enrich'd with Vertue, that knows where to beſtow and how to return Affe<g ref="char:EOLhyphen"/>ction. For certainly nothing can be more Charming than a Correſpondence of Kind<g ref="char:EOLhyphen"/>neſs, and a mutual intercourſe of friendly Offices. Now if we add, what we juſtly may, that <hi>Likeneſs</hi> is ſo attractive of <hi>Friend<g ref="char:EOLhyphen"/>ſhip</hi> as nothing more, 'twill eaſily be grant<g ref="char:EOLhyphen"/>ed that Vertuous Men love ſuch as are Ver<g ref="char:EOLhyphen"/>tuous, and delight to aſſociate with them, as if there were already ſome Alliance in Nature, and Affinity in Blood: For nothing is more deſirous, and (I may ſay) greedy of it's <hi>Like,</hi> than Nature.</p>
+                     <pb n="36" facs="tcp:60873:23"/>
+                     <p>And now, (<hi>Fannius</hi> and <hi>Scoevola,</hi>) I hope I have demonſtrated the neceſſity of a good Will between good Men, which is the natural ſpring of <hi>Friendſhip.</hi> But this Good<g ref="char:EOLhyphen"/>neſs is of a large extent: For <hi>Vertue</hi> is not ſo ſelfiſh, inſociable or proud, but that ſhe is equally communicative of her Bene<g ref="char:EOLhyphen"/>fits to every <hi>particular,</hi> and active for the <hi>publick</hi> Good; which would never be, had ſhe not an univerſal kindneſs for all. There<g ref="char:EOLhyphen"/>fore they that make <hi>Intereſt</hi> an inducement to <hi>Friendſhip,</hi> ſeem to me to looſen it's moſt amiable Tye; for 'tis not ſo much the Advantages we receive from a Friend, as the Love he has for us, that ought to be valued; and then it is that a good turn is moſt acceptable, when it comes with a good will. Now 'tis ſo far from being true, that <hi>Friendſhip</hi> proceeds from Neceſſity, that they who abound moſt in the poſſeſ<g ref="char:EOLhyphen"/>ſion of Riches and Vertue, (which of all things has leaſt need of any outward aſſiſ<g ref="char:EOLhyphen"/>tance) are generally the moſt liberal, and readieſt to oblige. Yet I queſtion, whe<g ref="char:EOLhyphen"/>ther 'tis always neceſſary that nothing ſhould be wanting between Friends: For if <hi>Scipio</hi> had never ſtood in need of my Service, Advice, or Aſſiſtance, neither at home nor abroad, what proofs had their been
+<pb n="37" facs="tcp:60873:23"/>of our mutual Affection? Therefore Con<g ref="char:EOLhyphen"/>venience and Intereſt ought not to be the cauſes, but the conſequences of <hi>Friend<g ref="char:EOLhyphen"/>ſhip.</hi>
+                     </p>
+                     <p>We muſt not give ear to thoſe World<g ref="char:EOLhyphen"/>lings who entertain ſuch notions of <hi>Friend<g ref="char:EOLhyphen"/>ſhip,</hi> as are grounded neither upon their knowledge nor their experience: For (God knows,) what Man living, would purchaſe the greateſt Wealth and Plenty in the World at ſo dear a rate, as not to Love the reſt of Mankind, nor to be belov'd by them? This were to live the Life of a Tyrant, deſtitute of the leaſt aſſurance of Kindneſs or common good Will, and ſo full of Jealouſies and Diſtruſts, that there is no room for <hi>Friendſhip.</hi> For who can <hi>Love</hi> that Man whom he <hi>Fears,</hi> or by whom he thinks himſelf to be <hi>Fear'd?</hi> Tyrants are flatter'd indeed for a while with an appear<g ref="char:EOLhyphen"/>ance of <hi>Friendſhip,</hi> but when they fall, (as commonly they do,) then they ſee too plainly how few <hi>Friends</hi> they have. 'Tis reported of <hi>Tarquin,</hi> that he ſhould ſay in his Baniſhment, that <hi>now he could diſcern his</hi> Friends <hi>from his</hi> Enemies, <hi>when he was not in a capacity of being uſeful to the</hi> one, <hi>or hurtful to the</hi> other: Tho' I ſhould wonder if ſo proud and cruel a Tyrant, could find
+<pb n="38" facs="tcp:60873:24"/>one <hi>Friend</hi> in the World. Now as this Man's ill qualities, gain'd him no true Friends, ſo commonly the affluence of Wealth indiſpoſes ſome Men for a real <hi>Friendſhip:</hi> For Fortune is not only Blind her ſelf, but ſhe hoodwinks her Fa<g ref="char:EOLhyphen"/>vourites, ſo that they are generally puff'd up with Pride and ſelf-conceit; and cer<g ref="char:EOLhyphen"/>tainly nothing is more unſufferable than a <hi>fortunate Fool.</hi> Of this we have frequent inſtances in ſome whoſe humor is at firſt not diſagreeable, till Honor, Power and Proſperity make ſuch an alteration in them, that they ſlight their <hi>Old</hi> Friends and grow fond of <hi>New.</hi> Now what can be a greater weakneſs, than for Men abounding in Riches, to lay out vaſt Sums upon Horſes, Equipage, Cloaths, Furniture, and twenty other Commodities that every Man may have for his Mony, and yet not to be ſo<g ref="char:EOLhyphen"/>licitous in the obtaining a <hi>Friend,</hi> the Richeſt Treaſure and Lovelyeſt Ornament of ones Life? For let a Man beſtow never ſo much in the purchaſe of worldly Goods, yet he can't tell for whom they are pur<g ref="char:EOLhyphen"/>chas'd, or who ſhall enjoy the Fruits of all his Coſt and Care, which may at laſt be ſnatch'd from him by ſome ſtronger hand; but a <hi>Friend</hi> is a ſure and laſting Poſſeſſion.
+<pb n="39" facs="tcp:60873:24"/>Nay, tho' we ſhould ſuppoſe our ſelves abſolute Maſters of all that Fortune can give, yet even in that condition, a Life deſtitute of <hi>Friends</hi> would be Solitary and Uncomfortable.</p>
+                     <p>And ſo much for this Point. Let us now ſet ſome Bounds and Limits to <hi>Friendſhip,</hi> how far it ſhould proceed in Kindneſs; concerning theſe, I find three ſeveral Opi<g ref="char:EOLhyphen"/>nions, none of which I approve.</p>
+                     <list>
+                        <item>The Firſt is, That we muſt ſtand equal<g ref="char:EOLhyphen"/>ly affected to our <hi>Friends,</hi> as to our <hi>Selves.</hi>
+                        </item>
+                        <item>The Second, That our Returns of <hi>Friend<g ref="char:EOLhyphen"/>ſhip,</hi> muſt bear an exact proportion to the Obligations we receive from our <hi>Friends.</hi>
+                        </item>
+                        <item>The Third, That accordingly as a Man eſteems of <hi>Himſelf,</hi> ſuch he muſt be eſteem'd by his <hi>Friend.</hi>
+                        </item>
+                     </list>
+                     <p>Of theſe three Aſſertions there is not one to which I can aſſent. Firſt, It is not true, that a Man ought to ſtand equally affected to his <hi>Friend</hi> as to <hi>Himſelf.</hi> For how many things are there which we would never do in our own Caſe, and yet we are
+<pb n="40" facs="tcp:60873:25"/>willing to do them for a <hi>Friend</hi>'s ſake? For inſtance, to ſue to an unworthy Man, to be importunate, to reproach any one with ſome Bitterneſs and Paſſion, all which would not appear ſo well in our own be<g ref="char:EOLhyphen"/>half, yet might be excuſable upon a <hi>Friend</hi>'s account. Beſides, there are many caſes in which a good Man willingly neglects or quits his own Convenience, that his Friend rather than himſelf may enjoy it.</p>
+                     <p>The next Opinion limits <hi>Friendſhip</hi> to a mutual equality and exact Correſpondence in all good Offices. This is to call <hi>Friend<g ref="char:EOLhyphen"/>ſhip</hi> to too ſtrict and ſevere an account, by requiring that the Returns ſhould be equivalent to the Obligations. True <hi>Friend<g ref="char:EOLhyphen"/>ſhip,</hi> methinks, is of a more generous and noble Nature, and ſcorns to be exact in obſerving whether more is return'd than has been receiv'd; for we muſt not be afraid, leſt any thing ſhould fall to the ground and be forgotten, or leſt our Friends ſhould have too much of our Kindneſs.</p>
+                     <p>The laſt and indeed the worſt is, that a Man muſt be eſteem'd by his <hi>Friend,</hi> as he eſteems of <hi>Himſelf.</hi> We frequently ſee ſome Men dejected in Mind, and hopeleſs of mending their Condition: in ſuch a
+<pb n="41" facs="tcp:60873:25"/>caſe it will not become a <hi>Friend</hi> to enter<g ref="char:EOLhyphen"/>tain the ſame mean thoughts of his deſ<g ref="char:EOLhyphen"/>ponding Companion, as he has of him<g ref="char:EOLhyphen"/>ſelf; but rather to uſe all arts and endea<g ref="char:EOLhyphen"/>vours to raiſe his drooping Spirits, and to animate him with better thoughts of him<g ref="char:EOLhyphen"/>ſelf and his Fortunes.</p>
+                     <p>But we ſhall find that true <hi>Friendſhip</hi> has a nobler End than any of theſe; if we remember what <hi>Scipio</hi> found ſo much fault with, when he ſaid, there could be no Opi<g ref="char:EOLhyphen"/>nion more pernicious to <hi>Friendſhip</hi> than his, who ſaid <hi>that a Man muſt</hi> love <hi>with this reſerve, that he may one day</hi> hate. He could never be perſuaded that this Sentence was ſpoken by <hi>Bias,</hi> who was one of the <hi>Seven,</hi> but rather by ſome Lewd ill-natur'd Fellow, that had a mind to ſubject all the World to his <hi>Intereſt</hi> and <hi>Ambition.</hi> For how can any Body be that Man's <hi>Friend,</hi> whoſe <hi>Enemy</hi> he thinks he may become hereafter? Beſides, he muſt needs wiſh that his <hi>Friend</hi> may offend often, that he may find more Occaſions to rebuke him; and he muſt as neceſſarily be diſpleas'd when he does well, or ſucceeds well. Wherefore this Doctrine (whoever was the Author of it) tends to the utter diſſolution of <hi>Friendſhip.</hi> He ſhould rather have ad<g ref="char:EOLhyphen"/>vis'd
+<pb n="42" facs="tcp:60873:26"/>us to uſe ſuch Caution in chuſing a <hi>Friend,</hi> as not to begin to love one, whom at ſome time or other we may hate; but if we are not ſo happy in our Choice as we could wiſh, 'twas <hi>Scipio</hi>'s Opinion, that we muſt rather bear with it than ever think of a Separation.</p>
+                     <p>This, in my mind, ſhould be the chief aim of <hi>Friendſhip,</hi> that the Manners and Diſpoſitions of Friends ſhould be good, and that there may be a Communication of all things between them, both of their Intentions and Thoughts, without any re<g ref="char:EOLhyphen"/>ſerve. And tho' it ſhould ſometimes fall out, that a <hi>Friend</hi>'s Requeſt is leſs reaſon<g ref="char:EOLhyphen"/>able than it ought to be, yet if his Life or Credit lies at Stake, we may ſtep a little aſide to ſerve him, unleſs we foreſee that ſome ſcandalous Conſequence will attend our Compliance: For tho' there are ſome Allowances to be made in <hi>Friendſhip,</hi> yet we muſt not hazard our own Reputation, nor that neceſſary Inſtrument in all our Affairs, the good Will of our Neighbours, which to purchaſe by Fawning and Flattery, is baſe and mean. Above all things we muſt be mindful of <hi>Vertue,</hi> which is the Founda<g ref="char:EOLhyphen"/>tion of <hi>Friendſhip.</hi>
+                     </p>
+                     <pb n="43" facs="tcp:60873:26"/>
+                     <p>
+                        <hi>Scipio</hi> (for I muſt often return to Him, who was always talking of this Subject) us'd to complain, that in all other Matters Men were more diligent than in this. Every one can tell you how many <hi>Sheep</hi> or <hi>Oxen</hi> he has; but ask him how many <hi>Friends,</hi> and he is ſilent: Moſt People are cautious and curious enough in the purchaſe of the <hi>firſt,</hi> but very negligent and indifferent in the choice of the <hi>laſt.</hi> All this proceeds from an ignorance of the true Marks and Tokens by which we may diſcern one that is well qualifi'd for a <hi>Friend.</hi> We muſt therefore pitch upon thoſe whom we think to be Men of a firm, ſteady, and conſtant Principle; there are ſo few of this ſort, that we can hardly judge of them, but by making ſome Trial, and this Trial can't be made till we have entred into ſome Fami<g ref="char:EOLhyphen"/>liarity, which being antecedent to our Ex<g ref="char:EOLhyphen"/>perience, ſeems to prevent our making a right Judgment of a <hi>Friend.</hi> Therefore a Prudent Man muſt know as well how to ſtop the Torrent of his Affection, as a good Rider how to check the Cariere of a head ſtrong Jade. <hi>Friendſhip</hi> muſt be us'd like Manag'd <hi>Horſes,</hi> the Humors and Diſpoſitions of thoſe we intend for our <hi>Friends</hi> muſt be obſerv'd by degrees.
+<pb n="44" facs="tcp:60873:27"/>Some are tried in a little matter of Mony how ſlight their Profeſſions are; Others again, who are not to be tempted with a ſmall Sum, will be prov'd in a greater. But if you can find a Man after all, that ſcorns to prefer your <hi>Mony</hi> before your <hi>Friendſhip,</hi> where will you light upon one that will not value Greatneſs, Power, Wealth and Empire above his Friend, that, when <hi>Theſe</hi> ſtand in competition with the Laws and Rights of <hi>Friendſhip,</hi> will not chuſe the <hi>firſt</hi> before the <hi>laſt?</hi> So hard is it for Fleſh and Blood to reſiſt the Temptations of <hi>Honor</hi> and <hi>Intereſt:</hi> And tho' they are purchas'd with the violation of <hi>Friendſhip,</hi> yet ſome Men ſhall think it very allowable to make bold with a <hi>Friend</hi> upon ſo great an account. So that true <hi>Friendſhip</hi> is hardly to be looked for from the Ambitious and Buſy part of Mankind; for 'tis almoſt impoſſible to find One among them that will wiſh his <hi>Friend</hi>'s Advancement before his own. To ſay no more of this—how grievous and intolerable is it to ſome Men, to bear the leaſt ſhare of their <hi>Friends</hi> Misfortunes? How few are there in the World that can ſubmit to that? Now tho' <hi>Ennius</hi> was in the right when he ſaid,
+<pb n="45" facs="tcp:60873:27"/>
+                        <q>Our <hi>cruelleſt</hi> Fortune ſhews our <hi>kindeſt</hi> Friends:</q>
+Yet there are two Caſes in which moſt Men ſhew the levity and inconſtancy of their Nature, namely when they ſlight a Friend in <hi>their</hi> Proſperity, or forſake him in <hi>his</hi> Adverſity. He therefore that in both Conditions of <hi>Fortune</hi> is a conſtant, firm, faithful <hi>Friend,</hi> He (I ſay) ought to be eſteem'd as one of that Noble and almoſt Divine ſort of Men. Now the main Foun<g ref="char:EOLhyphen"/>dation of that Stability and Conſtancy which is requir'd in <hi>Friendſhip,</hi> is <hi>Truth;</hi> for nothing can be <hi>laſting</hi> that is not <hi>true.</hi> We muſt chuſe a Man that is Plain, Cour<g ref="char:EOLhyphen"/>teous, good Humor'd, and of the ſame Mind with our ſelves; <hi>theſe</hi> are the inſe<g ref="char:EOLhyphen"/>parable Marks of <hi>Fidelity;</hi> for a Heart that is various and full of doublings can never be faithful, nor can one that is of a Temper and Diſpoſition different from ours be either cordial or conſtant. Give me leave to add this, That a Man muſt not be too forward in laying Faults upon his <hi>Friend</hi> of himſelf, nor in believing them from others: All this belongs to that <hi>Con<g ref="char:EOLhyphen"/>ſtancy</hi> which I mention'd juſt now.</p>
+                     <pb n="46" facs="tcp:60873:28"/>
+                     <p>Thus have I prov'd what I told you at firſt, that <hi>there can be no</hi> Friendſhip, <hi>but between</hi> Good <hi>Men.</hi> For 'tis the part of a <hi>Good</hi> Man (whom I may juſtly call a <hi>Wiſe</hi> Man) to obſerve theſe two Rules in <hi>Friendſhip:</hi>
+                        <list>
+                           <item>Firſt, That it be without any <hi>Deceit</hi> or <hi>Diſſimulation;</hi> for 'tis more ingenuous to profeſs an open <hi>Hatred,</hi> than to diſguiſe it under the Mask of <hi>Love.</hi>
+                           </item>
+                           <item>Secondly, Not only to defend his <hi>Friend</hi> againſt <hi>falſe Accuſations;</hi> but to keep him<g ref="char:EOLhyphen"/>ſelf from ſuſpecting that he violates the Laws of <hi>Friendſhip.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p>'Tis neceſſary too, that there ſhould be a ſweetneſs of Temper, and a pleaſantneſs in Converſation, which certainly gives a delightful reliſh to <hi>Friendſhip;</hi> Sullenneſs and Moroſeneſs muſt be avoided by all means: For tho' <hi>Friendſhip</hi> admits of <hi>Gravity,</hi> yet it muſt always be remiſs and eaſie, and diſpos'd to all innocent Chear<g ref="char:EOLhyphen"/>fulneſs and Complaiſance.</p>
+                     <pb n="47" facs="tcp:60873:28"/>
+                     <p>Here ſome will think it a diſputable Queſtion, Whether a <hi>New</hi> Friend, if he deſerves our Love, ſhould not be preferr'd before an <hi>Old</hi> one; as we uſe to prize a young Horſe above one that is paſt his Prime? This is an ill natur'd Doubt: For we muſt not think that <hi>Friendſhip</hi> (like the ordinary Pleaſures of Life) is capable of Satiety; but rather that Old <hi>Friends</hi> (like Old <hi>Wine</hi>) are the better for their Age. 'Tis a true tho' common Saying, that <hi>One muſt eat many a Buſhel of</hi> Salt <hi>with a</hi> Friend, <hi>before he can acquit himſelf in all the Offices of</hi> Friendſhip. Novelties indeed, like young Plants, if they give us any hopes of Fruit, are not to be rejected; but ſtill that which is of an elder Date is to be cheriſh'd moſt: For certainly long Acquain<g ref="char:EOLhyphen"/>tance and continual Uſe are ſtrong Engage<g ref="char:EOLhyphen"/>ments upon our Nature. And if the Horſe I was ſpeaking of, has no great Faults, I know no Man that would not rather chuſe to Ride one that he has been long us'd to, than a skittiſh Colt that was never Back'd. This power of Cuſtom and Uſe is not only diſcernible in <hi>Living</hi> Crea<g ref="char:EOLhyphen"/>tures, but even in things <hi>Inanimate:</hi> 'Tis a common Obſervation, That Men take moſt Pleaſure in thoſe Places where they
+<pb n="48" facs="tcp:60873:29"/>have dwelt longeſt, tho' they are never ſo Wild and Mountainous.</p>
+                     <p>'Tis a great Step to <hi>Friendſhip,</hi> when the Superior deſcends to an Equality with his Inferior: For many times there will happen a difference in Degree, as there was between <hi>Scipio</hi> and us that were his Friends; yet He never would eſteem him<g ref="char:EOLhyphen"/>ſelf above <hi>Philus, Rupilius, Mummius,</hi> or any of his Friends that were of an Inferior Rank; but on the contrary always reſpe<g ref="char:EOLhyphen"/>cted his Brother <hi>Q. Maximus,</hi> who was a Worthy Gentleman, but no way <hi>Scipio</hi>'s Equal (for he was a great deal younger,) as if he had been his Superior, and look'd upon all his <hi>Friends</hi> as Men that were his Betters in their intrinſick Worth. 'Tis pity but all Men ſhould follow <hi>Scipio</hi>'s Example in this; and if they have any Advantage above their <hi>Friends</hi> in the Gifts of Nature or Fortune, they ſhould freely impart it to them, and ſhare it with them. For Inſtance, If their <hi>Parentage</hi> be low, or their Endow<g ref="char:EOLhyphen"/>ments of <hi>Mind</hi> or <hi>Fortune</hi> mean, they ſhould increaſe their Stock in both, and do them all the Honor and Service they can. As we read in Romances of ſome <hi>Heroes,</hi> who having been brought up in Mean Families, thro' the obſcurity of their
+<pb n="49" facs="tcp:60873:29"/>Birth and ignorance of their Parentage, and proving at laſt the Sons of ſome King or God, retain their firſt Affection to the Shepherds, whom till then they look'd upon as their Natural Fathers. This Duty is much more incumbent upon us where our Real Parents are known: And then it is that the Fruits of <hi>Knowledge</hi> and <hi>Wiſdom</hi> and every Excellence are moſt certainly enjoy'd by our Selves, when they are com<g ref="char:EOLhyphen"/>municated to Others.</p>
+                     <p>Therefore as they who are any way Supe<g ref="char:EOLhyphen"/>rior to their Friends, ſhould make them their Equals; ſo on the other ſide, they that are Inferiors muſt not be diſſatisfi'd if they have a <hi>Friend</hi> that excels them in Know<g ref="char:EOLhyphen"/>ledge, Fortune or Dignity. But 'tis the Humor of ſome to be always complaining of their <hi>Friends,</hi> or elſe upbraiding them, eſpecially where they find any colour of ſaying, <hi>ſuch a thing was done for their ſake, and that they ſhew'd enough of their Kindneſs by ſerving them in an Affair, where none but a</hi> Friend <hi>would have given himſelf half the trouble.</hi> This ſort of Men is intolerable, for they turn their very <hi>Favours</hi> into <hi>Reproaches;</hi> whereas the nature of an Obligation ſeems to require that it ſhould be remembred by him that re<g ref="char:EOLhyphen"/>ceiv'd
+<pb n="50" facs="tcp:60873:30"/>it, not upbraided by him that gave it.</p>
+                     <p>Now as the Superior muſt ſubmit him<g ref="char:EOLhyphen"/>ſelf, ſo muſt the Inferior in ſome ſort raiſe himſelf to an Equality with his <hi>Friend.</hi> Some Men make their <hi>Friends</hi> very uneaſie by thinking themſelves ſlighted; tho' this ſeldom happens, but to ſuch as are conſcious of their own Demerits: ſuch as theſe are to be won from their Opinion, not only by Perſuaſion, but by real Aſſiſtance. And here it might be proper to conſider firſt how far it lays in our power to oblige, and ſecondly how far the Perſon we would oblige is qualifi'd for the Character and Poſt we intend him. For 'tis impoſſible for a Man (let him be never ſo able) to advance all his Friends and Acquaintance. We ſee <hi>Scipio</hi> had intereſt enough to make <hi>P. Rutilius</hi> Conſul, but he could not ſerve his Brother <hi>Lucius</hi> upon the ſame occaſion. Nay, tho' we can do never ſo much for a Friend, yet (as I ſaid before) we muſt conſider whether he is fit for ſuch or ſuch an Employment.</p>
+                     <p>There is no true Judgment to be made of our <hi>Friendſhips,</hi> till they are confirm'd by length of time, and maturity of un<g ref="char:EOLhyphen"/>derſtanding. If in our Youth, we had a
+<pb n="51" facs="tcp:60873:30"/>Love for the Companions of our Recrea<g ref="char:EOLhyphen"/>tions, this does not oblige us to contract a ſtrict <hi>Friendſhip</hi> with them, in our riper Years; for at that rate our <hi>Nurſes</hi> and <hi>Tutors</hi> might juſtly challenge the largeſt ſhare in our Affection. Now tho' theſe are not to be ſlighted, yet they are to eſteem'd after another manner than our <hi>Friends,</hi> whom otherwiſe we can never preſerve long. Different <hi>Manners</hi> create different <hi>Minds,</hi> and conſequently diſſolve <hi>Friendſhip:</hi> And the only Reaſon why Good Men can never Love thoſe that are Bad is, becauſe there is the wideſt differ<g ref="char:EOLhyphen"/>ence imaginable in their Minds and Man<g ref="char:EOLhyphen"/>ners.</p>
+                     <p>'Tis a good Rule in <hi>Friendſhip,</hi> to take care leſt the Intemperance and Extrava<g ref="char:EOLhyphen"/>gance of our Affection, ſhould hinder the <hi>Occaſions</hi> of our Friends, or prejudice their <hi>Intereſt.</hi> For (to return to Story,) <hi>Neoptolemus</hi> had never taken <hi>Troy,</hi> if he had hearken'd to his Father-in-Law <hi>Lyco<g ref="char:EOLhyphen"/>medes,</hi> who had the Education of Him, and ſtrove with many Tears to ſtop his Journy. Sometimes there will fall out preſ<g ref="char:EOLhyphen"/>ſing occaſions, that muſt neceſſarily divide <hi>Friends;</hi> which he that goes about to ob<g ref="char:EOLhyphen"/>ſtruct, becauſe he can't bear a <hi>Friend</hi>'s
+<pb n="52" facs="tcp:60873:31"/>abſence, ſhows a weak impotent and un<g ref="char:EOLhyphen"/>reaſonable <hi>Friendſhip.</hi> Therefore we muſt always conſider what we ought to <hi>ask</hi> of our Friends, as well as what we ought to <hi>grant</hi> them.</p>
+                     <p>Sometimes there falls out an unhappy neceſſity of a final Separation between <hi>Friends:</hi> For my Diſcourſe deſcends now from the <hi>Friendſhip</hi> of the <hi>Wiſer</hi> Sort, to that of the <hi>Vulgar.</hi> For Inſtance; Suppoſe a <hi>Friend</hi> of ours has done ſome great injury to a third Perſon, and that the Infamy of it is likely to extend to all that hold any Familiarity or Correſ<g ref="char:EOLhyphen"/>pondence with him: In this caſe, we muſt let our Friendſhip cool by degrees, and diſcontinuance of Converſation, and (as <hi>Cato</hi> us'd to ſay,) rather unty it gently, than break it off abruptly; unleſs ſome intolerable enormity breaks out, ſo that we cannot with any appearance of Juſtice or Honeſty, avoid an immediate Separa<g ref="char:EOLhyphen"/>tion. Where we find an alteration in the Manners and Inclinations of our <hi>Friend,</hi> (which often happens,) or a difference bet<g ref="char:EOLhyphen"/>ween their Sentiments, and ours in mat<g ref="char:EOLhyphen"/>ters of Government, (for as I told you, I am not now ſpeaking of a Philoſophical <hi>Friendſhip,</hi> but of <hi>that</hi> which is more or<g ref="char:EOLhyphen"/>dinary:)
+<pb n="53" facs="tcp:60873:31"/>There, I ſay, we muſt take heed leſt inſtead of laying down our <hi>Friend<g ref="char:EOLhyphen"/>ſhip</hi> fairly, we take up a mortal <hi>Enmity:</hi> for nothing can be worſe than to own an open <hi>Quarrel,</hi> where one has formerly us'd a <hi>Familiarity.</hi> You ſee, <hi>Scipio</hi> withdrew from <hi>Q. Pompeius</hi>'s Friendſhip upon my account, and left off all Familiarity with my Collegue <hi>Metellus,</hi> becauſe he was diſaffected to the State: In both he us'd that Wiſdom and Moderation, as to diſco<g ref="char:EOLhyphen"/>ver a <hi>Reſentment</hi> free from <hi>Paſſion.</hi> There<g ref="char:EOLhyphen"/>fore it muſt be our firſt care, to have no variance between our <hi>Friends</hi> and our ſelves, and where ſuch a misfortune hap<g ref="char:EOLhyphen"/>pens, to uſe that Temper in our demeanor towards them, that our <hi>Friendſhip</hi> may rather ſeem to dye of it ſelf, than to ſuf<g ref="char:EOLhyphen"/>fer any Violence from us. We muſt take heed, leſt of intimate <hi>Friends,</hi> we become Irreconcilable <hi>Enemies:</hi> For this is common<g ref="char:EOLhyphen"/>ly the occaſion of Quarrels, Reproaches and Railings, which if they are by any means tolerable, muſt be born with; and we ought to have ſo much regard for our for<g ref="char:EOLhyphen"/>mer <hi>Friendſhip,</hi> that he that <hi>does</hi> the In<g ref="char:EOLhyphen"/>jury, may be more to blame, than he that <hi>receives</hi> it.</p>
+                     <pb n="54" facs="tcp:60873:32"/>
+                     <p>Againſt all theſe Errors and Inconveni<g ref="char:EOLhyphen"/>ences, there is but one caution and remedy; and that is, not to begin our <hi>Friendſhip</hi> too ſoon, nor to miſplace it upon ſuch as do not deſerve it. Now thoſe are to be look'd upon as moſt deſerving, in whom we find ſuch good Qualities, as ſeem to command our Affection. This ſort of Men (as every thing that is excellent) is hard to be met with; and 'tis very difficult to find any thing that is every way Perfect in it's kind. There are a great many that will allow nothing to be <hi>Good,</hi> but what is <hi>Profitable,</hi> and value their <hi>Friends</hi> as Graſiers do their <hi>Cattel,</hi> ac<g ref="char:EOLhyphen"/>cordingly as they think they will turn to account. Such as theſe want that generous and moſt natural <hi>Friendſhip,</hi> which is to be deſir'd of it ſelf, and for it ſelf, and never underſtood by any experience upon themſelves, how great the force and effica<g ref="char:EOLhyphen"/>cy of <hi>Friendſhip</hi> is. For a Man loves himſelf, not becauſe he expects any re<g ref="char:EOLhyphen"/>ward, or return of his own Affection from himſelf, but becauſe every one is natural<g ref="char:EOLhyphen"/>ly dear to himſelf. Now he that does not find he ſtands thus affected towards ano<g ref="char:EOLhyphen"/>ther, can never be a true <hi>Friend: for a</hi> Friend <hi>is one's other</hi> Self. And ſince 'tis evident in Birds, Beaſts and Fiſhes, and all
+<pb n="55" facs="tcp:60873:32"/>Creatures <hi>Wild</hi> or <hi>Tame,</hi> Firſt, how they love themſelves, (for this affection is born with them,) and next, how naturally they apply themſelves to others of their own kind, and that with a ſtrange tenderneſs and emulation (as it were) of Human Love; we muſt certainly conclude, that theſe Inclinations are much more ſtrongly imprinted in the Heart of Man, and that 'tis Natural for him to Love himſelf, and to ſeek ſome other, with whom he may ſo mingle Souls, as to unite <hi>Two</hi> into <hi>One.</hi>
+                     </p>
+                     <p>Yet ſome Ill-natur'd (not to ſay impudent) Men would have their <hi>Friends</hi> be ſuch as they can never be <hi>themſelves,</hi> and expect that from <hi>them,</hi> which was never done by <hi>them<g ref="char:EOLhyphen"/>ſelves.</hi> 'Tis therefore neceſſary in the firſt place, that the Man who would be a <hi>Friend,</hi> ſhould be a Good Man; and next, that he ſhould find, and fix upon one of his own diſpoſition; for then it is, that the <hi>Friendſhip</hi> I mention'd, is throughly eſta<g ref="char:EOLhyphen"/>bliſh'd, when two Men equally affected to one another, have ſo entirely maſter'd thoſe Appetites, to which the greateſt part of Mankind is enſlaved, as to find a Pleaſure in Vertue and Integrity, and to delight in the mutual performance of all friendly Offices, neither party deſiring any thing
+<pb n="56" facs="tcp:60873:33"/>from the other but what is fair and honeſt, and Both having a <hi>Regard</hi> as well as a <hi>Love</hi> for each other: For he that would ſeparate <hi>Modeſty</hi> from <hi>Friendſhip,</hi> will Rob it of it's greateſt Ornament. 'Tis a great Hereſy in <hi>Friendſhip,</hi> to think that it gives any encouragement to a looſe and licentious Life: For certainly a <hi>Friend</hi> was deſign'd by Nature, for an Aſſiſtant to <hi>Vertue,</hi> not for a Companion in <hi>Vice,</hi> that becauſe a ſolitary Vertue would be helpleſs and un<g ref="char:EOLhyphen"/>able of her ſelf, to reach that degree of Perfection which ſhe aims at, ſhe might be enabled by the aſſiſtance of ſome <hi>Com<g ref="char:EOLhyphen"/>panion,</hi> to obtain her deſires. If therefore this noble Aſſociation ever was, is, or can be found between any two Perſons, they are to be look'd upon as the beſt Guides, to this greateſt Bleſſing of Human Na<g ref="char:EOLhyphen"/>ture. This, this is the Society in which is to be found all that Man can wiſh for, Vertue, Honour, Peace of Mind, Pleaſure, and every ſolid Enjoyment that makes our Lives happy, and without which they cannot be comfortable. This, doubtleſs, is the higheſt conſummation of Human Fe<g ref="char:EOLhyphen"/>licity; and if we would attain to it, we muſt make <hi>Vertue</hi> the means, without which we can never deſerve a <hi>Friend,</hi> nor
+<pb n="57" facs="tcp:60873:33"/>any thing that's worth our wiſhes; and which being neglected, they that think they have <hi>Friends</hi> will (too late) find their Error, when they have occaſion to make uſe of them. Therefore (for I cannot re<g ref="char:EOLhyphen"/>peat it too often) <hi>we muſt</hi> Try <hi>before we</hi> Love, <hi>and not</hi> Love <hi>before we</hi> Try. But as our neglect in other matters of moment is too viſible, ſo is it chiefly blameable in the choice and management of our <hi>Friend<g ref="char:EOLhyphen"/>ſhips,</hi> in which many of us uſe very pre<g ref="char:EOLhyphen"/>poſterous Methods, and (in ſpite of the Proverb) fruſtrate our own deſigns. For ſometimes we ſuffer our ſelves to be ſo incumber'd with our own worldly concerns, or engage our ſelves ſo deeply in publick affairs, that upon the leaſt diſtaſt or diſap<g ref="char:EOLhyphen"/>pointment in them, we immediately take pett, and fall out with our <hi>Friends.</hi>
+                     </p>
+                     <p>But nothing can excuſe our want of Care in a matter of ſo great importance; for <hi>Friendſhip</hi> is the only thing in the World, concerning whoſe uſefulneſs all Men agree. Nay, tho' <hi>Vertue</hi> it ſelf is derided by ſome, and paſſes with them for <hi>Singularity</hi> and <hi>Oſtentation,</hi> tho' many that content them<g ref="char:EOLhyphen"/>ſelves with a little, deſpiſe <hi>Riches;</hi> tho' <hi>Honor</hi> and <hi>Greatneſs</hi> which inflame the Am<g ref="char:EOLhyphen"/>bition of moſt Men, are ſo ſlighted by
+<pb n="58" facs="tcp:60873:34"/>ſome, that nothing is thought more vain and empty, (and ſo for other things of this nature that are admir'd by ſome and con<g ref="char:EOLhyphen"/>temn'd by others:) yet all Men have the ſame reſpect for <hi>Friendſhip;</hi> the States<g ref="char:EOLhyphen"/>man and the Philoſopher, the Idleman and the Man of Buſineſs, nay even thoſe that mind nothing but their Pleaſures will tell you, that there is no living without a <hi>Friend,</hi> if you mena to live happily. For <hi>Friendſhip</hi> runs through every Stage of our life, no Age or Condition is exempt from it: Nay, tho' a Man were of that moroſe and ſavage diſpoſition as to hate and ſhun the converſation of Mankind, (as we read one <hi>Timon</hi> an <hi>Athenian</hi> to have done,) yet that very Man can't live without ſome body to whom he may vent his ſpleen and ill nature. This we ſhould find by our own experience, if it were poſſible for ſome God to take us from the Society of Men, and to place us in a Solitude, there ſupplying with all the neceſſities of nature, and only debarring us of the power to ſee any of our Fellow-creatures: Is there any Man of ſo hard a temper that he could endure ſuch a life, and to whom that So<g ref="char:EOLhyphen"/>litude would not render all Pleaſures fruit<g ref="char:EOLhyphen"/>leſs and inſipid? 'Twas a very true Say<g ref="char:EOLhyphen"/>ing
+<pb n="59" facs="tcp:60873:34"/>that, which we have receiv'd from our Forefathers and they from theirs, as ſpoken by <hi>Archytas</hi> of <hi>Tarentum,</hi> that <hi>if a Man were to aſcend into</hi> Heaven, <hi>and there to contem<g ref="char:EOLhyphen"/>plate the nature of the</hi> Univerſe <hi>and the beauty of the</hi> Stars, <hi>all that Entertainment would be ungrateful to him, which, if he had a</hi> Companion <hi>to ſpeak to, would have been very acceptable and pleaſant.</hi>
+                     </p>
+                     <p>Thus we ſee, Nature flies Solitude, and ſeems to ſeek ſome ſupport and aſſiſtance from without, which every true Friend does with pleaſure. But tho' Nature by ſo many tokens declares what ſhe wants and requires, we ſtop our ears I know not how nor why, and will not hearken to what ſhe ſuggeſts. Now as the uſefulneſs of <hi>Friendſhip</hi> is various and manyfold, ſo in it there are too many occaſions given of ſuſpicions and diſtaſts, all which a wiſe Man will avoid, leſſen, or bear. And without doubt, it requires a great deal of Diſcretion to preſerve the Truth and Faith<g ref="char:EOLhyphen"/>fulneſs of a <hi>Friend,</hi> without giving offence at ſome time or other. For our <hi>Friends</hi> muſt be often admoniſh'd and ſometimes rebuk'd, both which, if they are wellmeant, are to be taken well. But 'tis too true, as my friend <hi>Terence</hi> ſays in a Play of his call'd
+<pb n="60" facs="tcp:60873:35"/>
+                        <hi>Andria,</hi> Compliance <hi>gains Friends, and</hi> Truth <hi>Enemies: Truth</hi> is ungrateful, be<g ref="char:EOLhyphen"/>cauſe it begets <hi>Hatred,</hi> which is the Bane of <hi>Friendſhip:</hi> But <hi>Compliance</hi> is infinitly worſe, for that ruins a <hi>Friend</hi> by indulg<g ref="char:EOLhyphen"/>ing him in his faults, and ſuffers him to run headlong into deſtruction. But he of all Men is moſt to blame, that both hates <hi>Truth,</hi> and ſuffers himſelf to be miſled by <hi>Compliance.</hi> In this caſe, all poſſible care and diligence is to be us'd, that our Admo<g ref="char:EOLhyphen"/>nitions be without <hi>Severity,</hi> and our Re<g ref="char:EOLhyphen"/>proofs without <hi>Scurrility:</hi> But let our <hi>Com<g ref="char:EOLhyphen"/>pliance</hi> (to uſe <hi>Terence's</hi> expreſſion) be tem<g ref="char:EOLhyphen"/>per'd with all Freedom, and void of Flat<g ref="char:EOLhyphen"/>tery, that Pandar to Vice, which is misbe<g ref="char:EOLhyphen"/>coming not only of a <hi>Friend,</hi> but of a Gentleman: For 'tis one thing to live upon equal terms with a <hi>Friend,</hi> and another thing to live under a <hi>Tyrant;</hi> but he that ſtops his Ears againſt the <hi>Truth,</hi> and will not hear it tho' it comes from a <hi>Friend,</hi> is certainly in a deſperate condition, and muſt be given over. What <hi>Cato</hi> tells us, is infallibly true, that <hi>ſome Men are more beholding to their ſharpeſt</hi> Enemies <hi>than to their ſmootheſt</hi> Friends, <hi>for the</hi> firſt <hi>ſpeak truth ſometimes, but the</hi> laſt <hi>never.</hi> 'Tis very abſurd in moſt Men, when they
+<pb n="61" facs="tcp:60873:35"/>are admoniſhed, to be troubled where they ſhould not, and not to be troubled where they ſhould: For uſually they are not ſo angry with <hi>Themſelves</hi> for committing a fault, as with their <hi>Friend</hi> for telling them of it; whereas on the contrary they ſhould be ſorry they have Err'd, and glad they are Reprov<g ref="char:punc">▪</g>d.</p>
+                     <p>As therefore 'tis the property of cordial <hi>Friendſhip</hi> mutually to admoniſh and to be admoniſh'd, and as the one is to be done with all Freedom, but without any Sharpneſs, and the other to be taken with all Patience and without any murmuring: ſo we may be ſure that there is no greater Canker to <hi>Friendſhip</hi> than Flattery, fawn<g ref="char:EOLhyphen"/>ing and aſſentation. This Vice has too many <hi>Names</hi> as well as <hi>Shapes,</hi> and is the infallible ſymptom of a baſe deceitful tem<g ref="char:EOLhyphen"/>per, that ſpeaks and acts every thing out of a love to <hi>Compliance</hi> more than <hi>Truth.</hi> But Diſſimulation, beſides that 'tis odious in all caſes, (for it corrupts and deſtroys our Judgment,) is utterly inconſiſtent with <hi>Friendſhip,</hi> becauſe it is repugnant to <hi>Truth,</hi> without which, the name of <hi>Friendſhip</hi> is but taken in vain. For ſince the End and Excellence of <hi>Friendſhip</hi> is to unite our minds, how can that be effected where one
+<pb n="62" facs="tcp:60873:36"/>Man has not always one and the ſame mind, but is unſetled, inconſtant, and in<g ref="char:EOLhyphen"/>conſiſtent with himſelf? What can be ſo flexible and ſlippery as his mind, who con<g ref="char:EOLhyphen"/>forms himſelf not only to the <hi>Will,</hi> but even to the very <hi>Looks</hi> of another? <hi>Does any one</hi> deny? <hi>I</hi> deny <hi>too: does he</hi> affirm? <hi>So do I; in ſhort, I have that command over my ſelf, as to be of every Man's mind,</hi> as <hi>Terence</hi> has it in another Play; this he ap<g ref="char:EOLhyphen"/>plies wittily to <hi>Gnatho</hi> a <hi>Paraſite,</hi> which would look very abſurd in a <hi>Friend.</hi> There are too many in the World that reſemble <hi>Gnatho</hi> in their Character, tho' they make a better figure than he did upon the Stage: <hi>Flattery</hi> in them is fullſome, when they think their Vanity authoriz'd by their Greatneſs. But we may as eaſily diſcern a <hi>Flatterer</hi> from a <hi>Friend,</hi> with a little care, as we can diſtinguiſh falſe and ſophiſtica<g ref="char:EOLhyphen"/>ted Ware from that which is right. The very unthinking Multitude (where one would little expect to find any Judgment) ſhall ſometimes find the difference between a fawning <hi>Demagogue,</hi> that is, a <hi>Publick</hi> Flat<g ref="char:EOLhyphen"/>terer, and a wiſe and worthy <hi>Patriot.</hi>
+                     </p>
+                     <p>What fine arts did <hi>C. Papirius</hi> uſe to inſi<g ref="char:EOLhyphen"/>nuate himſelf into the minds of his Audi<g ref="char:EOLhyphen"/>tors, when he endeavour'd to bring in a
+<pb n="63" facs="tcp:60873:36"/>Law for making the ſame Perſon <hi>Tribune</hi> of the <hi>Commons</hi> as often as they pleas'd? I oppos'd it; but I ſhall ſay nothing of my ſelf, of <hi>Scipio</hi> I ſhall ſpeak moſt wil<g ref="char:EOLhyphen"/>lingly. Lord! what weight, what Majeſty was there in his Oration? One would have thought he had been their Governor and not their Fellow-Citizen— But you were preſent, and his Speech is in every Man's hands. Thus through his means that popular Law was rejected by the unanimous Conſent of the People: But to ſpeak a word or two of my ſelf. You may remember, when <hi>Q. Maximus</hi> (<hi>Scipio</hi>'s Brother) and <hi>L. Mancinus</hi> were Conſuls, how univerſally the Law that <hi>C. Licinius Craſſus</hi> propos'd concerning the Creation of <hi>Prieſts,</hi> had obtain'd among the Vulgar: Now the intent of this Law was to transfer the right of chuſing Men into that Office, upon the Populace. 'Twas he that firſt brought up the Cuſtom of Haranguing the People in Verſe: But the Honor every one had for the immortal Gods, together with my beſt endeavours in their defence, did eaſily defeat his mercenary Oration. This was done when I was <hi>Praetor,</hi> five years before I was <hi>Conſul;</hi> tho' I muſt confeſs, the ſucceſs of that Affair is more owing to the Juſtice
+<pb n="64" facs="tcp:60873:37"/>of the <hi>Cauſe,</hi> than to the Abilities of its <hi>Advocate.</hi>
+                     </p>
+                     <p>Since therefore upon ſo publick a Stage as a Vulgar Audience is, where there is room enough for Shuffling and Prevarica<g ref="char:EOLhyphen"/>tion, <hi>Naked Truth</hi> can prevail, when 'tis laid open and illuſtrated; how much more can it do in <hi>Friendſhip,</hi> which is wholly meaſur'd by it? For here, unleſs your <hi>Friend</hi> unlocks his Breaſt to you, and you do the ſame to him, there can be no Truſt or Confidence between you; you cannot ſo much as Love or be Belov'd, but will be forc'd to doubt the ſincerity of each other's Affection. Now tho' Flattery is very pernicious of it ſelf, yet can it hurt no Body but him that admits of it, and is pleas'd with it; from hence it comes to paſs, that thoſe Men are moſt expos'd to the Flattery of others who are moſt apt to flatter themſelves, and to have an over-weaning Conceit of their own Worth. 'Tis true, <hi>Vertue</hi> is lovely in her own Eye, for ſhe beſt knows her ſelf, and underſtands how Amiable ſhe is to others: But I ſpeak not now of <hi>Vertue,</hi> but of an <hi>Opinion</hi> of Vertue; for moſt Men deſire not ſo much to <hi>be</hi> Vertuous, as to <hi>appear</hi> ſo: Such as theſe are pleas'd with Flattery;
+<pb n="65" facs="tcp:60873:37"/>
+                        <hi>Theſe,</hi> when they meet with ſome ela<g ref="char:EOLhyphen"/>borate <hi>Panegyrick</hi> that tickles the vanity of their Humor, ſhall think the fulſom <hi>Encomium</hi> to be a true Teſtimonial of their Merit. But this is not <hi>Friendſhip,</hi> where one does not care to <hi>hear</hi> Truth, nor the other to <hi>ſpeak</hi> it. The Flattery of the <hi>Paraſite</hi> in the Play would not ſeem ſo witty to us, unleſs there was ſuch a Fop for him to work upon, as the <hi>Braggadocio. But does</hi> Thaïs <hi>thank me kindly, d'ye ſay?</hi> One would have thought it enough for <hi>Gnatho</hi> to have anſwer'd, <hi>She does:</hi> But he cries, <hi>Oh! infinitely!</hi> Thus your right Flatterer always aggravates that which the Vain-glorious Man deſires ſhould look Big. Now tho' this ſort of Witchcraft has moſt power over ſuch as invite and encourage it, yet the Wiſeſt and Graveſt Perſons muſt be caution'd to take care leſt they be overtaken by it ſome time or other. Any Man that has his Wits about him may quickly diſcern an <hi>open</hi> Flatterer: but we can't uſe too much Caution in arming our ſelves againſt the ſubtle Inſi<g ref="char:EOLhyphen"/>nuations of the ſly <hi>undermining</hi> Sycophant, who ſhall then be moſt guilty of <hi>Aſſentation,</hi> when he ſeems the <hi>Spirit of Contradiction;</hi> who all the while he pretends to <hi>oppoſe</hi> you,
+<pb n="66" facs="tcp:60873:38"/>ſhall only <hi>amuſe</hi> you, and at laſt in Com<g ref="char:EOLhyphen"/>plaiſance to you, ſhall ſuffer himſelf to be convinc'd; ſo that he who is moſt in the Wrong, ſhall ſeem to have the Better ſide of the Queſtion: Now what is more groſs than to be thus impos'd upon? To prevent all this, we muſt take care (as the Poet ſays in his <hi>Epiclerus) leſt we be banter'd and bubbled worſe than all the fooliſh Old Fellows in</hi> Comedies <hi>uſe to be:</hi> For even upon the Stage we think the Character of an improvident Credulous <hi>Dotard</hi> very ridiculous.</p>
+                     <p>My Diſcourſe has deviated I know not how from the Friendſhips of the more <hi>Refin'd,</hi> that is, the <hi>Wiſer</hi> ſort of Men (I mean here ſuch <hi>Wiſdom</hi> as Man is capable of,) to thoſe of ſmaller account; let us now return to the firſt <hi>Motive</hi> of <hi>Friendſhip,</hi> and end with it.</p>
+                     <p>'Tis Vertue, Vertue (<hi>C. Fannius</hi> and <hi>Q. Mucius</hi>) that creates and preſerves <hi>Friend<g ref="char:EOLhyphen"/>ſhip;</hi> in That alone we ſhall find all that is agreeable, faithful, or conſtant. <hi>Vertue,</hi> having rais'd her ſelf above the common Pitch, and ſhewing her own Light, ſees the ſame, and knows it in another, to whom ſhe joyns her ſelf by a mutual giving and
+<pb n="67" facs="tcp:60873:38"/>receiving of all that is needful for Both: From hence proceeds <hi>Love</hi> or <hi>Friendſhip,</hi> which are both deriv'd from the ſame word <hi>(Amo)</hi> in <hi>Latin.</hi> Now <hi>Love</hi> is no<g ref="char:EOLhyphen"/>thing elſe but a well wiſhing to him whom you affect, without any inducement from Neceſſity or Intereſt; for the Later will naturally follow upon <hi>Friendſhip,</hi> tho' you do not think of it. This ſort of Affection I had when I was young, for <hi>L. Paulus, C. Gallus, P. Naſica</hi> and <hi>T. Gracchus</hi> (my Friend <hi>Scipio</hi>'s Father in-Law) who were all of them Old Men. This is more eminently perfect between thoſe of the ſame Age, as between <hi>Me</hi> and <hi>Scipio, L. Furius, P. Rupi<g ref="char:EOLhyphen"/>lius</hi> and <hi>Sp. Mummius.</hi> Again, when we grow Old, we are pleas'd with the Conver<g ref="char:EOLhyphen"/>ſation of Younger Perſons; as I am with Yours and <hi>Tubero</hi>'s: Nay, I take great delight in my familiarity with <hi>P. Rutilius</hi> and <hi>A. Virginius;</hi> tho' they are very young.</p>
+                     <p>Now, becauſe the condition of our Life and Nature is ſo order'd, that one <hi>Age</hi> grows out of another; it might be wiſh'd, that as we began the Race of Life together with our Equals, ſo we might all along continue it and end it with them. But ſince all things in this World are ſo frail and
+<pb n="68" facs="tcp:60873:39"/>uncertain, we muſt never be without ſome <hi>One</hi> whom we may love, and by whom we may be mutually belov'd; for without <hi>Friendſhip,</hi> there is no Enjoyment of Life.</p>
+                     <p>Tho' <hi>Scipio</hi> was ſuddenly ſnatch'd from me, yet to Me he ſtill does and always will live; for I lov'd his <hi>Vertue,</hi> and That can never die: That is not only continu<g ref="char:EOLhyphen"/>ally before my <hi>Eyes,</hi> in whoſe <hi>Arms</hi> it ſometimes was; but will be ſignally Famous to all Poſterity. No man will think of any gallant and extraordinary Undertaking, but He will Copy out his Actions from <hi>Scipio</hi>'s Life. Among all the Bleſſings that <hi>Fortune</hi> or <hi>Nature</hi> ever beſtow'd upon me, I know none that I can compare with <hi>Scipio</hi>'s <hi>Friendſhip.</hi> With Him I advis'd and agreed in the management of all Public and Private Affairs; in Him was treaſur'd up my Happineſs. I never offended him (to my knowledge) in the leaſt; I never heard any thing from him that I could wiſh un ſaid. Our Lodging and Diet was in one Houſe, and at one Table; and not only our Warfare, but our Travels and our Retirements were always together. Not to mention our Studies, which, having withdrawn our ſelves from the Eyes of the World, we ſpent in the ſearch of Knowledge?</p>
+                     <pb n="69" facs="tcp:60873:39"/>
+                     <p>Now if the Remembrance of theſe things had dy'd with <hi>Scipio,</hi> I could never have born the Loſs of ſo dear and loving a <hi>Friend;</hi> No, that can never decay, but is rather continually ſtrengthen'd and renew'd by the frequency of my Thoughts, and the freſhneſs of my Memory: Nay, tho' That too were gone, yet I ſhould find ſome Comfort from my Age, for by the Courſe of Nature I cannot want Him long; and what is but <hi>ſhort</hi> muſt be born pati<g ref="char:EOLhyphen"/>ently, tho' it be <hi>grievous.</hi>
+                     </p>
+                     <p>This is all I have to ſay upon this Sub<g ref="char:EOLhyphen"/>ject; and let me adviſe you, Gentlemen, to have that eſteem for <hi>Vertue,</hi> without which there can be no Amity, as to think that (That only excepted) nothing is more excellent than <hi>Friendſhip.</hi>
+                     </p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:60873:40"/>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:60873:40"/>
+                  <p>A Paſtoral Dialogue CONCERNING FRIENDSHIP AND LOVE.</p>
+                  <p>OCCASION'D By the DEATH of the Honourable <hi>J. T.</hi>
+                  </p>
+                  <q>
+                     <p>Extinctum Nymphoe crudeli funere <hi>Daphnim</hi> Flebant—</p>
+                     <bibl>
+                        <hi>Virg Eclog.</hi>
+                     </bibl>
+                  </q>
+                  <p>Printed in the Year MDCXCI.</p>
+               </div>
+            </front>
+            <body>
+               <div type="dialogue">
+                  <pb facs="tcp:60873:41"/>
+                  <pb n="1" facs="tcp:60873:41"/>
+                  <head>A <hi>Paſtoral Dialogue</hi> CONCERNING FRIENDSHIP AND LOVE.</head>
+                  <head type="sub">ALCON and LYCIDAS.</head>
+                  <sp>
+                     <speaker>ALCON.</speaker>
+                     <l>SAy, <hi>Lycidas,</hi> why all alone?</l>
+                     <l>Is thy <hi>Dorinda</hi> falſe, or does ſhe frown?</l>
+                     <pb n="2" facs="tcp:60873:42"/>
+                     <l>Doſt Thou to this dark Deſert fly,</l>
+                     <l>To vent thy own, or blame her Jealouſy?</l>
+                  </sp>
+                  <sp>
+                     <speaker>LYCIDAS.</speaker>
+                     <l>No, Shepherd, no; the Maid was ever kind,</l>
+                     <l>Dear to my Eyes, and charming to my Mind;</l>
+                     <l>(Nay, I remember with her Parting Breath</l>
+                     <l>She bleſt our Loves, and ſmil'd and kiſs'd in Death.)</l>
+                     <l>But oh! She's gone! like a fall'n Bloſſom caſt</l>
+                     <l>From its fair Stalk, by ſome untimely Blaſt;</l>
+                     <l>For ever gone! whilſt I diſtracted rove,</l>
+                     <l>Tell the ſad Tale to ev'ry conſcious Grove,</l>
+                     <l>And mourn the dear remembrance of our injur'd Love.</l>
+                  </sp>
+                  <pb n="3" facs="tcp:60873:42"/>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>Look up, deſpairing Youth, and ſee</l>
+                     <l>With pitying Eyes, a ſadder Wretch than Thee:</l>
+                     <l>My Friend, my Soul, my <hi>Daphnis</hi> is no more,</l>
+                     <l>Snatch'd, like an early Flower,</l>
+                     <l>Which ſome rude Hand had cropt before its hour;</l>
+                     <l>Whilſt I thrô many a Pathleſs-way</l>
+                     <l>With heedleſs Sorrow ſtray,</l>
+                     <l>Led hither by my wandring Sheep</l>
+                     <l>With much more Tears a dearer Loſs than Thine to weep.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>A dearer Loſs! Raſh Swain, take heed;</l>
+                     <l>With emulous Grief you wrong the beauteous Dead:</l>
+                     <pb n="4" facs="tcp:60873:43"/>
+                     <l>My <hi>Tears</hi> can brook a Rival now no more</l>
+                     <l>Than could my <hi>Flames</hi> (my Hapleſs flames) before;</l>
+                     <l>Fate has not kill'd my Paſſion, but improv'd,</l>
+                     <l>For Dead I worſhip what Alive I lov'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>Fond Youth, in yon' ſoft Myrtle Shades</l>
+                     <l>To amo'rous Boys and wanton Maids</l>
+                     <l>Tell thy ſad Tale, whilſt <hi>every conſcious Grove</hi>
+                     </l>
+                     <l>With tatling ſounds mocks thy unmanly Love;</l>
+                     <l>Be ſilent Here: where Reaſon holds the Scale,</l>
+                     <l>Thy <hi>Paſſion</hi> needs muſt yield, my <hi>Friendſhip</hi> muſt prevail.</l>
+                  </sp>
+                  <pb n="5" facs="tcp:60873:43"/>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>Here then with mournful ſtrife we'll Both contend;</l>
+                     <l>And let yon' Swain our Fleecy Charge attend,</l>
+                     <l>Whilſt I a <hi>Miſtreſs</hi> weep. — ALC.) But I a <hi>Friend.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>Come all ye <hi>Nymphs,</hi> a beauteous mournful Train,</l>
+                     <l>(Beauteous indeed now my <hi>Dorinda</hi>'s gone,)</l>
+                     <l>Come All, and teach the liſtning Plain</l>
+                     <l>To tell Our loſs, and weep Its own.</l>
+                     <l>Ye <hi>Nymphs</hi> that crowded round her graceful ſide,</l>
+                     <l>Whilſt She, your Envy and your Pride,</l>
+                     <l>With all your Myrtles, all your Praiſes crown'd</l>
+                     <l>In tuneful meaſures ſtruck the gladſom ground.</l>
+                     <pb n="6" facs="tcp:60873:44"/>
+                     <l>And all ye <hi>Swains,</hi> whoſe emulous Harmony,</l>
+                     <l>Taught by the Equal motions of her Feet</l>
+                     <l>Thence grew Artful, thence grew Sweet;</l>
+                     <l>Ye Swains that courted Her, and envy'd Me,</l>
+                     <l>Come all, with mingled Grief combine</l>
+                     <l>To mourn your own Deſpair, and pity Mine.</l>
+                     <l>O're Her ſad Herſe</l>
+                     <l>Pour out your Tears,</l>
+                     <l>And with them write this Melancholy Verſe,</l>
+                     <l>
+                        <hi>Here fair</hi> Dorinda <hi>lies,</hi> Dorinda <hi>here did fall,</hi>
+                     </l>
+                     <l>
+                        <hi>Who</hi> One <hi>bleſt Shepherd lov'd, Her ſelf belov'd of</hi> All.</l>
+                  </sp>
+                  <pb n="7" facs="tcp:60873:44"/>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>Come all ye <hi>Youths,</hi> Ye dear Companions come,</l>
+                     <l>(Now dear indeed, ſince <hi>Daphnis</hi> is no more)</l>
+                     <l>With equal Tears Our common Loſs deplore,</l>
+                     <l>And bleſs his Fame and beautify his Tomb.</l>
+                     <l>Ye <hi>Youths</hi> that round my <hi>Daphnis</hi> proudly rode,</l>
+                     <l>Whilſt He the Grace, the Terror of the Wood,</l>
+                     <l>With active Force and fatal Certainty</l>
+                     <l>By his own Shafts inſtructed Yours to fly.</l>
+                     <l>Ye <hi>Virgins</hi> too, that throng'd the joyful place</l>
+                     <l>To ſeek the conqueſts of a nobler Chace;</l>
+                     <l>To ſeek indeed, but all in vain,</l>
+                     <l>Whilſt <hi>Daphnis,</hi> Charms an unſought Triumph gain;</l>
+                     <pb n="8" facs="tcp:60873:45"/>
+                     <l>As many Darts as the Lov'd Shepherd threw</l>
+                     <l>As many <hi>Cupid</hi> ſhot, as many wounded You.</l>
+                     <l>Come all, with mournful Care</l>
+                     <l>Your freſheſt lateſt Gifts prepare;</l>
+                     <l>Round his beauteous, his cold Head</l>
+                     <l>The ſhort-liv'd Honours of mix'd Garlands ſpread,</l>
+                     <l>And oh! a while their ſhort-liv'd Honours chear</l>
+                     <l>With many a Sigh and many a Tear,</l>
+                     <l>
+                        <hi>Alive</hi> ye lov'd Him all, All weep Him <hi>dead.</hi>
+                     </l>
+                     <l>Weep All, and ſay—Daphnis <hi>lies here,</hi>
+                     </l>
+                     <l>
+                        <hi>Whom ev'ry Maid did court, each Shepherd did com<g ref="char:EOLhyphen"/>mend,</hi>
+                     </l>
+                     <l>Daphnis <hi>the lovelieſt Swain,</hi> Daphnis <hi>the kindeſt Friend.</hi>
+                     </l>
+                  </sp>
+                  <pb n="9" facs="tcp:60873:45"/>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>Flowers to the Vale are grateful, lofty Pines</l>
+                     <l>To the proud Mountain's head, embracing Vines</l>
+                     <l>To the rich Garden, Cypreſs to the Grove,</l>
+                     <l>To Me more grateful far <hi>Dorinda</hi>'s Love.</l>
+                  </sp>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>Froſts to the Flowers are hurtful, the rude Storm</l>
+                     <l>To lofty Pines, to Vines the cruel Worm,</l>
+                     <l>Fire to the waſted Grove, to Me than thoſe</l>
+                     <l>More hurtful far my much lov'd <hi>Daphnis'</hi> Loſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <lg>
+                        <l>Oh! She was innocent, She was fair,</l>
+                        <l>As are thoſe ſpotleſs Sheep</l>
+                        <l>The dying <hi>Dear</hi> wiſh'd me to keep,</l>
+                        <l>My wretched Wealth and my unwelcom Care.</l>
+                        <pb n="10" facs="tcp:60873:46"/>
+                        <l>Was there a Youth o're all the Plain</l>
+                        <l>But for <hi>Dorinda</hi> ſigh'd, and ſigh'd in vain?</l>
+                        <l>Gay <hi>Dorilas</hi> Old <hi>Melibaeus'</hi> Heir,</l>
+                        <l>And rich <hi>Menalcas</hi> (rich indeed,</l>
+                        <l>His thrifty Father lately dead)</l>
+                        <l>With rival Arts and Preſents courted Her.</l>
+                        <l>And one his Kids, and one his Fruits wou'd bring:</l>
+                        <l>Both ſhe refus'd, or deigning to receive,</l>
+                        <l>To me the Kinder Maid would give.</l>
+                        <l>One well could Play, and one could ſweetly Sing:</l>
+                        <l>Deaf to their Arts, and with their Gifts unmov'd</l>
+                        <l>She ſtood, and Me, even happyer Me ſhe lov'd.</l>
+                     </lg>
+                     <lg>
+                        <l>"<hi>Now all forlorn theſe pious Tears 1 ſhed</hi>
+                        </l>
+                        <l>"<hi>To</hi> Love <hi>deſerted and</hi> Dorinda <hi>dead.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <pb n="11" facs="tcp:60873:46"/>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Daphnis</hi> was ſweet and gentle as yon' Flood,</l>
+                        <l>Whoſe liſtning Waters lov'd to crowd</l>
+                        <l>Towards the glad Shore, whilſt His ſoft Melody</l>
+                        <l>Made them forget their Parent Sea,</l>
+                        <l>Admire his Muſick, and indulge their ſtay.</l>
+                        <l>The Swans too, gladly held by the late Tide,</l>
+                        <l>Heard his delightful Strains, then try'd</l>
+                        <l>To imitate the Voice, and dy'd.</l>
+                        <l>
+                           <hi>Daphnis</hi> was tall and graceful, as the Hart</l>
+                        <l>That wept the skilful anger of his Dart,</l>
+                        <l>Like our <hi>Melampus</hi> faithful, like him fleet,</l>
+                        <l>(If <hi>Little</hi> things we may compare with <hi>Great</hi>)</l>
+                        <pb n="12" facs="tcp:60873:47"/>
+                        <l>Our poor <hi>Melampus</hi> wandring round the Plain,</l>
+                        <l>Hark! with ſhrill Howls laments his <hi>Maſter</hi> ſlain.</l>
+                        <l>Was there a Maid cou'd hide her conſcious flame,</l>
+                        <l>When ſome glad Tale was bleſt with <hi>Daphnis'</hi> Name?</l>
+                        <l>Youthful <hi>Galatea,</hi> (Fair</l>
+                        <l>When your <hi>Dorinda</hi> was not there)</l>
+                        <l>
+                           <hi>Alcippe, Nyſa, Chloë</hi> ſtrove</l>
+                        <l>For the wiſh'd Triumph of his Love.</l>
+                        <l>Each her officious Preſents would prepare,</l>
+                        <l>Fruits for his Scrip, and Garlands for his Hair;</l>
+                        <l>Each preſs'd with glad amazement to the Ring,</l>
+                        <l>And when He danc'd, each ſtrove to ſing.</l>
+                        <l>Their Gifts He wou'd receive, their Muſick He wou'd hear,</l>
+                        <pb n="13" facs="tcp:60873:47"/>
+                        <l>Till weary'd with their Praiſes He</l>
+                        <l>Thank'd their Civility,</l>
+                        <l>Refus'd their Love, and haſten'd home to Me.</l>
+                        <l>There in a clasp'd embrace We lay,</l>
+                        <l>And with ſweet Talk deceiv'd the live-long day,</l>
+                        <l>Pity'd the Wretches that in vain had woo'd,</l>
+                        <l>Smil'd at their Paſſion and our own purſu'd.</l>
+                     </lg>
+                     <lg>
+                        <l>"<hi>Now left alone, with hopeleſs Grief I moan</hi>
+                        </l>
+                        <l>"<hi>My ill-Starr'd</hi> Friendſhip <hi>wrong'd, my</hi> Daphnis <hi>gon.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>'Twas in a fatal Hour,</l>
+                     <l>When the lov'd Maid impatient of my ſtay,</l>
+                     <l>Had deck'd, and did forſake her Bower</l>
+                     <pb n="14" facs="tcp:60873:48"/>
+                     <l>To chide my Sloth, whilſt in the treache'rous way</l>
+                     <l>In fair deceit a murde'rous Viper lay:</l>
+                     <l>There as with eager haſt ſhe trod the ground,</l>
+                     <l>There her ſwift Foot receiv'd the ſudden wound.</l>
+                     <l>In vain (alas!) the wondring Maid</l>
+                     <l>From the following Danger fled;</l>
+                     <l>Death proud of his fair Conqueſt grew,</l>
+                     <l>And all his cruel ſpeed imploy'd and haſten'd to purſue.</l>
+                     <l>"<hi>Now I theſe tributary Sorrows ſhed</hi>
+                     </l>
+                     <l>"<hi>To</hi> Love <hi>deſerted and</hi> Dorinda <hi>dead.</hi>
+                     </l>
+                  </sp>
+                  <pb n="15" facs="tcp:60873:48"/>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>Curs'd be the deadly Steel</l>
+                     <l>By whoſe much lamented powe'r</l>
+                     <l>In a black inauſpicious Hour</l>
+                     <l>My dear, unhappy <hi>Daphnis</hi> fell.</l>
+                     <l>'Twas a ſad Morn, when He the lov'd He roſe</l>
+                     <l>From my unwilling Breaſt and his diſturb'd Repoſe;</l>
+                     <l>Back to my Arms the ſtrugling Youth I pull'd,</l>
+                     <l>Told Him how young the Day, the Air how cold,</l>
+                     <l>Ask'd Him what was th' unwonted Cauſe</l>
+                     <l>That broke our cloſe embrace ſo ſoon?</l>
+                     <l>He told me, <hi>I ſhould hear of Him e're Noon,</hi>
+                     </l>
+                     <l>Fetch'd an ill-boding Sigh and ſaid—<hi>He muſt be gon.</hi>
+                     </l>
+                     <pb n="16" facs="tcp:60873:49"/>
+                     <l>What was the Cauſe (Ah Me!) too well I know,</l>
+                     <l>Too ſoon; for an ill Dream was ſcarcely paſt,</l>
+                     <l>And waking Thoughts my ſleeping Fears increas'd,</l>
+                     <l>When Every Tongue and every Eye ſpoke Woe,</l>
+                     <l>And every Maid and every Shepherd ſaid,</l>
+                     <l>
+                        <hi>Oh cruel Fate! Oh</hi> Daphnis <hi>dead!</hi>
+                     </l>
+                     <l>Curs'd be that Idol <hi>Honor;</hi> doubly curs'd</l>
+                     <l>The Wretch that with its nice Exceptions firſt</l>
+                     <l>Stain'd the free Mirth of our infected Plain,</l>
+                     <l>And taught deſtructive Swords</l>
+                     <l>To be the Judges (how unfit!) of Words.</l>
+                     <l>For this eve'n Me my <hi>Daphnis</hi> left</l>
+                     <l>Of Him and Happineſs bereſt;</l>
+                     <pb n="17" facs="tcp:60873:49"/>
+                     <l>For this the Youth with early brave Diſdain</l>
+                     <l>Challeng'd, went forth, contended, and was ſlain.</l>
+                     <l>
+                        <hi>"For this ſad I with hopeleſs Grief bemoan</hi>
+                     </l>
+                     <l>
+                        <hi>"My ill Starr'd</hi> Friendſhip <hi>wrong'd, my</hi> Daphnis <hi>gon.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>Thy ill-Starr'd <hi>Friendſhip,</hi> Swain, lament no more,</l>
+                     <l>I my deſerted <hi>Love</hi> deplore.</l>
+                  </sp>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>Thy <hi>Love!</hi> the dying flames of looſe Deſire</l>
+                     <l>Look pale and tremble at my chaſter Fire.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>Then let juſt <hi>Pan</hi> our Cauſe's merit try,</l>
+                     <l>Whilſt mighty <hi>Love</hi> I ſing—.</l>
+                  </sp>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <p>Whilſt mightier <hi>Friendſhip</hi> I.</p>
+                  </sp>
+                  <pb n="18" facs="tcp:60873:50"/>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>I have a Pipe on which I've often play'd</l>
+                     <l>To the lovely liſtning Maid;</l>
+                     <l>None diſlik'd my artleſs Lays,</l>
+                     <l>She'd find ſomething out to praiſe.</l>
+                     <l>On this I'le play. <hi>"Ye mighty Powe'rs of</hi> Love</l>
+                     <l>
+                        <hi>"Inſpire my willing Pipe, my happy Choice approve.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>I have a Pipe on which my <hi>Daphnis</hi> play'd,</l>
+                     <l>Whilſt ev'ry lovely liſtning Maid</l>
+                     <l>Would leave her Flocks to hear his artful Lays,</l>
+                     <l>And ev'ry wondring Youth his ev'ry ſtrain wou'd praiſe.</l>
+                     <l>To this I'le ſing—<hi>"Kind</hi> Friendſhip <hi>bleſs my Choice,</hi>
+                     </l>
+                     <l>
+                        <hi>"Whilſt to thy pow'rful Harmony I tune my willing voice.</hi>
+                     </l>
+                  </sp>
+                  <pb n="19" facs="tcp:60873:50"/>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>Tell me what kind Power of Old</l>
+                     <l>Enrich'd the World, and nam'd the Age from <hi>Gold?</hi>
+                     </l>
+                     <l>When ev'ry Nymph and ev'ry Swain</l>
+                     <l>Lov'd, and was belov'd again.</l>
+                     <l>When <hi>Falſhood</hi> and <hi>Diſdain</hi> were yet unknown,</l>
+                     <l>And <hi>Innocence</hi> and <hi>Love</hi> were One?</l>
+                     <l>Each amo'rous Shepherd choſe a willing Maid</l>
+                     <l>Above the cares of Honour, Birth or State,</l>
+                     <l>And in Affection richly paid;</l>
+                     <l>The willing Maid his plain Addreſs receiv'd,</l>
+                     <l>His unproteſted Love beleiv'd,</l>
+                     <l>And neither vow'd, yet neither was deceiv'd.</l>
+                     <pb n="20" facs="tcp:60873:51"/>
+                     <l>Then new Delight did each new Hour employ,</l>
+                     <l>
+                        <hi>Love</hi> was their Life, their Life one laſting Joy.</l>
+                     <l>
+                        <hi>"Aſſiſt, Almighty Queen of</hi> Heav'n <hi>and</hi> Love,</l>
+                     <l>
+                        <hi>"Inſpire my willing Pipe, my happy Choice approve.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>Tell me, e're all this beauteous World was fram'd,</l>
+                     <l>Or Your fond Age from glittering <hi>Gold</hi> was nam'd,</l>
+                     <l>When Heav'n and Earth were one rude Heap,</l>
+                     <l>And wild Confuſion fill'd the pregnant Deep,</l>
+                     <l>What nobler Cauſe, what Kinder Pow'r</l>
+                     <l>The Melancholy Maſs did ſtirr,</l>
+                     <pb n="21" facs="tcp:60873:51"/>
+                     <l>And made the appeas'd Embryo's <hi>Friends?</hi>
+                     </l>
+                     <l>The appeas'd Embryo's never ſince</l>
+                     <l>Have to that <hi>Friendly</hi> Knot done violence;</l>
+                     <l>That Knot nor Chance nor Force can e're deſtroy,</l>
+                     <l>Their very Being <hi>Friendſhip</hi> is, their <hi>Friendſhip</hi> one long Joy.</l>
+                     <l>
+                        <hi>"Almighty</hi> Friendſhip, <hi>bleſs my noble Choice,</hi>
+                     </l>
+                     <l>
+                        <hi>"Whilſt to thy pow'rful Harmony I tune my willing voice.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <lg>
+                        <l>Seeſt thou yon' Bird, that in the Cypreſs Grove</l>
+                        <l>With buſy flight from Tree to Tree</l>
+                        <l>And untaught Melody</l>
+                        <l>Calls his dear Mate, and ſays—<hi>I am in Love?</hi>
+                        </l>
+                        <pb n="22" facs="tcp:60873:52"/>
+                        <l>And, <hi>Alcon,</hi> ſee! from yonder Bough</l>
+                        <l>His dear Mate flies and and anſwers— <hi>I love too.</hi>
+                        </l>
+                        <l>Their happy Care thro' all the Spring</l>
+                        <l>Is only how to Love, and how to Sing.</l>
+                        <l>Then look, grave Moraliſt, and learn from Theſe</l>
+                        <l>To imitate their Flames, and to improve thy Bliſs.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>"Aſſiſt, Almighty Queen of</hi> Heav'n <hi>and</hi> Love,</l>
+                        <l>
+                           <hi>"Inſpire my willing Pipe, my happy Choice approve.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>Seeſt thou yon' Oak, which many a Year has ſtood</l>
+                     <l>Gracefully firm, it ſelf a Wood?</l>
+                     <l>Why does it raiſe its lofty Head,</l>
+                     <l>And all around diffuſe a friendly ſhade?</l>
+                     <pb n="23" facs="tcp:60873:52"/>
+                     <l>See, <hi>Lycidas,</hi> a circling Ivy joyns</l>
+                     <l>Its mingled Root, and round the glad Trunk twines</l>
+                     <l>Its willing Leaves: Wind, Cold, and Age they ſcorn</l>
+                     <l>Whilſt One can ſtill defend, and One adom</l>
+                     <l>Thus their embracing Honors each extends,</l>
+                     <l>Both flouriſh, Both are happy, Both are <hi>Friends.</hi>
+                     </l>
+                     <l>Hence thy groſs Joys, fond Amoriſt, improve,</l>
+                     <l>In <hi>Friendſhip</hi>'s purer Flames refine thy droſſy <hi>Love.</hi>
+                     </l>
+                     <l>
+                        <hi>"Almighty</hi> Friendſhip, <hi>bleſs my noble Choice,</hi>
+                     </l>
+                     <l>
+                        <hi>"Whilſt to thy pow'rful Harmony I tune my willing Voice.</hi>
+                     </l>
+                  </sp>
+                  <pb n="24" facs="tcp:60873:53"/>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>'Twas <hi>Love,</hi> Great <hi>Love</hi> that from his awful Throne</l>
+                     <l>Charm'd the amo'rous Thunderer down;</l>
+                     <l>
+                        <hi>Love</hi> made the Horned Deity</l>
+                     <l>At fair <hi>Europa's</hi> feet ſubmiſſive lye;</l>
+                     <l>
+                        <hi>Love</hi> taught the feather'd God to go</l>
+                     <l>To <hi>Leda</hi> and a Happyer Heav'n below.</l>
+                     <l>Strange Power! that rules the nobleſt Souls</l>
+                     <l>And turns Divinities to Beaſts and Fowls!—</l>
+                  </sp>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>To Beaſts indeed! who blindly place</l>
+                     <l>In lawleſs Luſt their ſoveraign Happineſs.</l>
+                     <pb n="25" facs="tcp:60873:53"/>
+                     <l>'Twas <hi>Friendſhip,</hi> nobler <hi>Friendſhip</hi> could inſpire</l>
+                     <l>
+                        <hi>Leda's</hi> fam'd Sons with a much happyer Fire</l>
+                     <l>Than e're inflam'd their wanton Sire.</l>
+                     <l>
+                        <hi>Friendſhip</hi> taught the Gene'rous Pair</l>
+                     <l>A mix'd Divinity to ſhare:</l>
+                     <l>And made them, that they might unite</l>
+                     <l>Their Souls, divide their Friendly Light.</l>
+                     <l>Then boaſt no more thy worthleſs Paſſion, when</l>
+                     <l>'Tis <hi>Love</hi> makes Beaſts of Gods, but <hi>Friendſhip</hi> Gods of Men.</l>
+                     <pb n="26" facs="tcp:60873:54"/>
+                     <l>
+                        <hi>"Almighty</hi> Friendſhip <hi>bleſs my noble Choice,</hi>
+                     </l>
+                     <l>
+                        <hi>"Whilſt to thy pow'rful Harmony I tune my willing Voice.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>Oft have I heard, and I remember well,</l>
+                     <l>When under our tall Poplar ſhade</l>
+                     <l>To Me and to the dear dead Maid</l>
+                     <l>Oft faithful Loves old <hi>Aegon</hi> us'd to tell:</l>
+                     <l>For faithful <hi>Love</hi> what <hi>Priam's</hi> Son could do;</l>
+                     <l>(<hi>Priam's</hi> Son a Shepherd too;)</l>
+                     <l>How <hi>Venus</hi> He did worthily prefer</l>
+                     <l>Or to the Queen of <hi>Heav'n</hi> or to the Queen of <hi>War.</hi>
+                     </l>
+                     <pb n="27" facs="tcp:60873:54"/>
+                     <l>
+                        <hi>Venus</hi> recompenc'd his Voice,</l>
+                     <l>
+                        <hi>Venus</hi> bleſs'd His noble Choice:</l>
+                     <l>Tho' Heaven and <hi>Greece</hi> his Choice deny'd,</l>
+                     <l>
+                        <hi>Venus</hi> gave the beauteous <hi>Bride.</hi>
+                     </l>
+                     <l>For <hi>Love's</hi> happy Violence She</l>
+                     <l>Deſpis'd the Dangers of the Sea,</l>
+                     <l>The Dangers of the Battle He.</l>
+                     <l>Oft have I heard, how, when War's rude Alarms</l>
+                     <l>From chaſt <hi>Penelope's</hi> unwilling Arms</l>
+                     <l>Her dear <hi>
+                           <g ref="char:V">Ʋ</g>lyſſes</hi> forc'd, the Widow'd Fair</l>
+                     <l>Sat penſive twice ten tedious Year;</l>
+                     <pb n="28" facs="tcp:60873:55"/>
+                     <l>In vain at <hi>Troy</hi> unhappy <hi>Hector</hi> ſtrove</l>
+                     <l>To reach the faithful Hero's guarded Head,</l>
+                     <l>At <hi>Ithaca</hi> in vain with hated Love</l>
+                     <l>His Rivals ſtrove to ſtain Her ſpotleſs Bed.</l>
+                     <l>
+                        <hi>Love</hi> preſerv'd the happy Pair,</l>
+                     <l>Eas'd his Toils and cur'd her Fear,</l>
+                     <l>Whilſt He abroad maintain'd, whilſt ſhe at home a War.</l>
+                     <l>
+                        <hi>Aegon</hi> would oft the grateful Tale renew,</l>
+                     <l>And to it add ſome happy pleaſant Truth</l>
+                     <l>That bleſs'd the ſmiling Vigor of his Youth;</l>
+                     <pb n="29" facs="tcp:60873:55"/>
+                     <l>Oft would He bid us theſe fair Tracks purſue,</l>
+                     <l>And told Us <hi>Love</hi> wou'd bleſs Us too.</l>
+                     <l>But Oh! in moving Words He wou'd relate</l>
+                     <l>
+                        <hi>Eurydice</hi>'s untimely Fate,</l>
+                     <l>For whom ſad <hi>Orpheus</hi> leſt alone</l>
+                     <l>In ſweet mournful Strains did moan,</l>
+                     <l>And ecchoing <hi>Rhodope</hi> was heard to groan.</l>
+                     <l>For whom (bleſt Pow'r of <hi>Love!</hi>) his Harmony</l>
+                     <l>Chang'd arbitrary Fate's Decree,</l>
+                     <l>Broke wondring Death's till then reſiſtleſs Chain,</l>
+                     <l>And to his longing Boſom did the joyful Nymph re<g ref="char:EOLhyphen"/>gain.</l>
+                     <pb n="30" facs="tcp:60873:56"/>
+                     <l>Oh! that like Him (for I like Him have mourn'd)</l>
+                     <l>My dearer Loſs I might retrieve!</l>
+                     <l>Oh! that like Her, the Maid might be return'd,</l>
+                     <l>And (for like Her ſhe dy'd) like Her again might Live.</l>
+                     <l>"<hi>But Oh, in vain theſe fruitfuleſs Tears I ſhed</hi>
+                     </l>
+                     <l>"<hi>For</hi> Love <hi>Deſerted and</hi> Dorinda <hi>dead.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>I too have heard ('twere impious to forget)</l>
+                     <l>When beneath Yon' ſpreading Tree</l>
+                     <l>To <hi>Daphnis</hi> dearly known and Me</l>
+                     <l>Of Faithful <hi>Friends</hi> wiſe <hi>Thyrſis</hi> wou'd relate;</l>
+                     <pb n="31" facs="tcp:60873:56"/>
+                     <l>How <hi>Sicily's</hi> envying Tyrant griev'd to know</l>
+                     <l>That his delighted Realm could boaſt of Two</l>
+                     <l>Happyer, happyer far then He</l>
+                     <l>With all his Pow'r and all his Royalty,</l>
+                     <l>Two for faithful <hi>Friendſhip</hi> ſam'd,</l>
+                     <l>
+                        <hi>Damon</hi> (I think) and <hi>Pythias</hi> they were nam'd:</l>
+                     <l>And One in cruel Fetters He confin'd,</l>
+                     <l>T'other diſdain'd his uſeleſs Liberty</l>
+                     <l>To ſet his lov'd Companion free,</l>
+                     <l>He leſs afflicted that was left behind.</l>
+                     <pb n="32" facs="tcp:60873:57"/>
+                     <l>This the wondring Tyrant ſaw,</l>
+                     <l>And own'd the juſter Pow'r of <hi>Friendſhip's</hi> Law;</l>
+                     <l>Their bleſs'd Acquaintance humbly He did woo,</l>
+                     <l>If haply of the ſtrong-link'd Chain</l>
+                     <l>The leaſt kind Portion might remain,</l>
+                     <l>Which to the pleaſing Yoak might joyn a Monarch too.</l>
+                     <l>Oft of the <hi>Grecian</hi> Pair our Prieſt wou'd ſpeak,</l>
+                     <l>Whoſe <hi>Friendſhip</hi> Fate it ſelf cou'd hardly break:</l>
+                     <l>How, when ſad Garlands crown'd <hi>Oreſtes</hi> Head,</l>
+                     <l>And with cruel Piety</l>
+                     <l>The deſtin'd Victim to the Shrine was led,</l>
+                     <pb n="33" facs="tcp:60873:57"/>
+                     <l>His <hi>Pylades</hi> did all his skill employ</l>
+                     <l>With kind Deceit to frame the Gene'rous Lye,</l>
+                     <l>And for his dearer Self, Himſelf to dye.</l>
+                     <l>Both ſtrove to fall, Both happily in vain,</l>
+                     <l>The fatal Conqueſt neither cou'd obtain;</l>
+                     <l>The Smiling Goddeſs did to <hi>Friendſhip</hi> give</l>
+                     <l>Its juſt Reward, and bad them Love and Live.</l>
+                     <l>With glad remembrance <hi>Thyrſis</hi> wou'd commend</l>
+                     <l>The wondrous Faith of ſome old <hi>Friend,</hi>
+                     </l>
+                     <l>Whoſe ſtrong ſurviving Love ſtill warm'd his Breaſt,</l>
+                     <l>Then bid Us thus be <hi>Friends,</hi> and thus We ſhou'd be bleſt.</l>
+                     <pb n="34" facs="tcp:60873:58"/>
+                     <l>But Oh! with ſtrange concern the Bard wou'd tell</l>
+                     <l>How, when his Lov'd <hi>Perithous</hi> fell,</l>
+                     <l>To amaz'd <hi>Styx</hi> bold <hi>Theſeus</hi> did deſcend,</l>
+                     <l>And loſt Himſelf to find his <hi>Friend.</hi>
+                     </l>
+                     <l>How when the dear, the mournful Captives lay</l>
+                     <l>To Death's unpitying King a hopeleſs Prey,</l>
+                     <l>Both to redeem, the fair <hi>Alcmena</hi>'s Son</l>
+                     <l>(<hi>Alcmena's</hi> Son did not diſdain</l>
+                     <l>To feed his Herds and Love the Plain)</l>
+                     <l>To the frighted ſhades went down;</l>
+                     <pb n="35" facs="tcp:60873:58"/>
+                     <l>Both He redeem'd, from Both He did remove</l>
+                     <l>All Bonds but thoſe of grateful Love.</l>
+                     <l>This noble Act his leſs fam'd Labours crown'd,</l>
+                     <l>Made Him for <hi>Courage</hi> much, for <hi>Friendſhip</hi> more renow'd.</l>
+                     <l>Oh! that like Him, a meaner Shepherd I</l>
+                     <l>Could make the unrelenting Pow'r</l>
+                     <l>My dear lamented <hi>Youth</hi> reſtore!</l>
+                     <l>Oh! that with Me He liv'd, or I for Him could dy!</l>
+                     <l>Oh! that, like Them, He might return, for He</l>
+                     <l>Was dearer far than Both to Me.</l>
+                     <pb n="36" facs="tcp:60873:59"/>
+                     <l>"<hi>But Oh! in vain with hopeleſs Grief I moan</hi>
+                     </l>
+                     <l>"<hi>My ill-Starr'd</hi> Friendſhip <hi>wrong'd, my</hi> Daphnis <hi>gon.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>Kind <hi>Friendſhip,</hi> Swain, has bleſs'd thy noble Choice:</l>
+                     <l>
+                        <hi>Pan</hi> has inſpir'd thy Pipe, and tun'd thy Voice:</l>
+                     <l>Thy Voice at leaſt this Conqueſt ſhall obtain,</l>
+                     <l>That, ſince the matchleſs Maid is ſlain</l>
+                     <l>I'le never, never Love again.</l>
+                  </sp>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>Oh! Yield a little farther yet,</l>
+                     <l>And make my Conqueſt and my Joy compleat;</l>
+                     <pb n="37" facs="tcp:60873:59"/>
+                     <l>For, ſince my deareſt <hi>Daphnis</hi> bled,</l>
+                     <l>Too juſtly I deſpair to find</l>
+                     <l>A Youth ſo true, a Friend ſo kind,</l>
+                     <l>Unleſs to <hi>Daphnis Lycidas</hi> ſucceed.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>Tho' all unworthy I,</l>
+                     <l>And rude in <hi>Friendſhip's</hi> well ſung Myſtery.</l>
+                     <l>Yet would <hi>Alcon</hi> deign to ſhow</l>
+                     <l>The happy means, (for <hi>Alcon</hi> well does know)</l>
+                     <l>I fain would Learn (methinks,) and Practiſe too.</l>
+                  </sp>
+                  <pb n="38" facs="tcp:60873:60"/>
+                  <sp>
+                     <speaker>ALC.</speaker>
+                     <l>Then may all Strife in this bleſt Union end,</l>
+                     <l>And Kindneſs only Here contend;</l>
+                     <l>So Thou a <hi>Miſtreſs</hi> ſcarce haſt loſt—</l>
+                  </sp>
+                  <sp>
+                     <speaker>LYC.</speaker>
+                     <l>—So Thou haſt found a <hi>Friend.</hi>
+                     </l>
+                  </sp>
+               </div>
+            </body>
+            <back>
+               <div type="publishers_advertisement">
+                  <pb facs="tcp:60873:60"/>
+                  <head>BOOKS Printed for <hi>WIL<g ref="char:EOLhyphen"/>LIAM CROOKE,</hi> at the <hi>Green-Dragon</hi> with<g ref="char:EOLhyphen"/>out <hi>Temple-Bar.</hi>
+                  </head>
+                  <p n="1">1. THE <hi>London practice of Phyſick,</hi> or the whole Pra<g ref="char:EOLhyphen"/>ctical part of <hi>Phyſick,</hi> contained in the Works of Dr. <hi>Thomas Willis,</hi> faithfully made Engliſh, and Printed to<g ref="char:EOLhyphen"/>gether for the publick good; To which is Bound <hi>His new Book,</hi> being a plain and eaſie Method for <hi>preſerving from, and curing of the Plague,</hi> and all other contagious Diſ<g ref="char:EOLhyphen"/>eaſes. In <hi>Octavo,</hi> price bound 7 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </p>
+                  <p n="2">2. The <hi>Chriſtian</hi>'s <hi>Manual in Three Parts.</hi>
+                     <list>
+                        <item>1. The <hi>Catechumen,</hi> or an Account given by the young Perſon of his know<g ref="char:EOLhyphen"/>ledge in Religion, before his Admiſſion to the <hi>Lords Sup<g ref="char:EOLhyphen"/>per,</hi> as a Ground-work, for his right underſtanding the Sacrament.</item>
+                        <item>2. <hi>An Introduction to a plain</hi> and ſafe way to the <hi>Communion Table,</hi> with <hi>Prayers</hi> fitted for the Communicant, <hi>before, at,</hi> and <hi>after</hi> the Receiving of the <hi>Lords Supper.</hi>
+                        </item>
+                        <item>3. <hi>The Primitive Inſtitution,</hi> ſhew<g ref="char:EOLhyphen"/>ing the great benefit and neceſſity of Catechizing, to ſave the Souls of particular Perſons, and to heal the preſent Diſ<g ref="char:EOLhyphen"/>tempers of the Church. In <hi>Twelves,</hi> price bound 2 <abbr>
+                              <hi>s.</hi>
+                           </abbr>
+                        </item>
+                     </list>
+                  </p>
+                  <p n="3">3. The <hi>Hiſtorians Guide,</hi> or Britain's Remembrance; being a Summary of all the Actions, Battles, &amp;c. Preſerments, Changes, &amp;c. that hapned in his Majeſties Kingdom, from <hi>An. Dom.</hi> 1600. to 1690. ſhewing the Year, Month, and Day of the Month, each was done in; <hi>with an Alphabetical Table,</hi> for the more eaſie finding out any thing in the Book. In <hi>Twelves,</hi> price bound 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </p>
+                  <pb facs="tcp:60873:61"/>
+                  <p n="4">4. <hi>Bucaniers of America</hi> in two Volums; or a true account of the moſt remarkable Aſſaults, committed of late years upon the Coaſt of the <hi>Weſt-Indies,</hi> by the <hi>Engliſh</hi> and <hi>French,</hi> with the unparallel'd Exploits of Sir <hi>Henry Morgan,</hi> Capt. <hi>Cooke,</hi> Capt. <hi>Sharp,</hi> and other <hi>Engliſh Men;</hi> alſo the great Cruelties of the <hi>French Bucaniers.</hi> Both Parts bound to<g ref="char:EOLhyphen"/>gether, price 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> In <hi>Quarto.</hi>
+                  </p>
+                  <p n="5">5. Nine Treatiſes of <hi>Thomas Hobbes</hi> of <hi>Malmsbury,</hi> bound in <hi>two Volums</hi> in <hi>Octavo, viz.</hi>
+                     <list>
+                        <item>1. His <hi>Behemoth</hi> or Civil Wars of England.</item>
+                        <item>2 His Hiſtorical Narration of Hereſy.</item>
+                        <item>3 His An<g ref="char:EOLhyphen"/>ſwer to Biſhop <hi>Bramhall,</hi> in <hi>defence of his Leviathan.</hi>
+                        </item>
+                        <item>4 His ſeven <hi>Problems,</hi> with an <hi>Apology</hi> to the King for <hi>his Writ<g ref="char:EOLhyphen"/>ing:</hi> Theſe 4 were Printed all at one time and called <hi>his Tracts,</hi> at <hi>5 <abbr>s.</abbr>
+                           </hi> bound.</item>
+                        <item>5 <hi>His Life</hi> in Latin, writ part by him<g ref="char:EOLhyphen"/>ſelf, and finiſhed <hi>by Dr. B.</hi>
+                        </item>
+                        <item>6 His <hi>Conſiderations</hi> on his own Religion, Loyalty, &amp;c.</item>
+                        <item>7 His Art of <hi>Rhetorick</hi> in Engliſh.</item>
+                        <item>8 His Dialogue about the <hi>Common Laws of England.</hi>
+                        </item>
+                        <item>9 His <hi>Ten Dialogues</hi> of Natural Philoſophy in Engliſh.</item>
+                     </list>
+Theſe 5 laſt new Printed at ſeveral times, and ſold ſingle; but for conveniency alſo bound in a Volume together, and ſold for 7 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </p>
+                  <p n="6">6 <hi>Britain Glory,</hi> and Englands Bravery, wherein is ſhewed the Degrees of Honour, from the Prince to the <hi>Peaſant,</hi> the Precedency of all Perſons from the Throne to the Bondman; uſeful for all, eſpecially for <hi>Feaſts, Funerals, Proceſſions</hi> and all great Aſſemblies, &amp;c. with the <hi>Heralds Duty</hi> and Power, and a <hi>Dictionary of the Terms in Heraldry,</hi> and an Account of all the Orders of <hi>Knighthood</hi> in Chriſtendom, and of the Weights and Meaſures of England. By <hi>B. Smithurſt.</hi> In <hi>Twelves,</hi> price bound 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </p>
+                  <pb facs="tcp:60873:61"/>
+               </div>
+               <trailer>FINIS.</trailer>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
